@@ -73,7 +73,7 @@ namespace URI_1021
             v %= 0.5;
             Console.WriteLine($"{Math.Truncate(v / 0.1)} moeda(s) de R$ 0.01");
 
-
+            //Não foi aceito. Plataforma aparentemente não aceita Math.Truncate
         }
     }
 }
