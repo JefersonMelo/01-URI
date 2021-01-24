@@ -18,7 +18,7 @@ namespace UR_1049
         ave
         carnivoro
          */
-        // Erro no Uri. ide ok.
+
         static void Main( string[] args )
         {
             string s = Console.ReadLine().ToLower();
@@ -33,24 +33,24 @@ namespace UR_1049
                     {
                         s = "aguia";
                     }
-                    if (sss == "onivoro")
+                    else //if (sss == "onivoro")
                     {
                         s = "pomba";
                     }
                 }
-                if (ss == "mamifero")
+                else //if (ss == "mamifero")
                 {
                     if (sss == "onivoro")
                     {
                         s = "homem";
                     }
-                    if (s == "herbivoro")
+                    else //if (sss == "herbivoro")
                     {
                         s = "vaca";
                     }
                 }
             }
-            if (s == "invertebrado")
+            else //if (s == "invertebrado")
             {
                 if (ss == "inseto")
                 {
@@ -58,18 +58,18 @@ namespace UR_1049
                     {
                         s = "pulga";
                     }
-                    if (sss == "herbivoro")
+                    else //if (sss == "herbivoro")
                     {
                         s = "lagarta";
                     }
                 }
-                if (ss == "anelideo")
+                else //if (ss == "anelideo")
                 {
                     if (sss == "onivoro")
                     {
                         s = "minhoca";
                     }
-                    if (sss == "hemafogo")
+                    else //if (sss == "hemafogo")
                     {
                         s = "sanguessuga";
                     }
