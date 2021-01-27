@@ -15,7 +15,7 @@ namespace URI_1073
                             4^2 = 16
                             6^2 = 36 
          */
-        //erro o uri. ide ok.
+
         static void Main( string[] args )
         {
             int n = int.Parse(Console.ReadLine());
@@ -23,7 +23,7 @@ namespace URI_1073
             {
                 if (i % 2 == 0)
                 {
-                    Console.WriteLine($"{i}^{i} = {Math.Pow(i, 2)}");
+                    Console.WriteLine($"{i}^2 = {Math.Pow(i, 2)}");
                 }
             }
         }
