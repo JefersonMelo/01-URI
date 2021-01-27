@@ -48,6 +48,7 @@ namespace URI_1074
                 {
                     Console.WriteLine("ODD NEGATIVE");
                 }
+                //null
                 else if (x == 0)
                 {
                     Console.WriteLine("NULL");
