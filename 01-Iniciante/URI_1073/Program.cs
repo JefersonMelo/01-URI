@@ -15,7 +15,7 @@ namespace URI_1073
                             4^2 = 16
                             6^2 = 36 
          */
-
+        //erro o uri. ide ok.
         static void Main( string[] args )
         {
             int n = int.Parse(Console.ReadLine());
