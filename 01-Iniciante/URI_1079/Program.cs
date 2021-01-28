@@ -22,7 +22,6 @@ namespace URI_1079
         static void Main( string[] args )
         {
             double n1, n2, n3;
-            double[] vetResult = new double[3];
             int x = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < x; i++)
@@ -31,8 +30,7 @@ namespace URI_1079
                 n1 = double.Parse(vet[0], CultureInfo.InvariantCulture);
                 n2 = double.Parse(vet[1], CultureInfo.InvariantCulture);
                 n3 = double.Parse(vet[2], CultureInfo.InvariantCulture);
-                vetResult[i] = ((n1 * 2.0) + (n2 * 3.0) + (n3 * 5.0)) / 10.0;
-                Console.WriteLine(vetResult[i].ToString("F1", CultureInfo.InvariantCulture));
+                Console.WriteLine((((n1 * 2.0) + (n2 * 3.0) + (n3 * 5.0)) / 10.0).ToString("F1", CultureInfo.InvariantCulture));
             }
         }
     }
