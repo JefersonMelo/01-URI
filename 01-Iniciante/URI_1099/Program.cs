@@ -23,8 +23,7 @@ namespace URI_1099
 
         static void Main( string[] args )
         {
-            int n, x, y, aux, soma;
-
+            int n, x, y, aux, resp;
             n = int.Parse(Console.ReadLine());
 
             while (n > 0)
@@ -32,22 +31,22 @@ namespace URI_1099
                 string[] s = Console.ReadLine().Split(' ');
                 x = int.Parse(s[0]);
                 y = int.Parse(s[1]);
+
+                resp = 0;
                 if (x < y)
                 {
                     aux = x;
                     x = y;
                     y = aux;
                 }
-
-                soma = (x + y) / 2;
-                if (soma % 2 != 0 && soma > 5)
+                for (int i = y + 1; i < x; ++i)
                 {
-                    Console.WriteLine(soma);
+                    if (i % 2 != 0 || i % 2 == -1)
+                    {
+                        resp += i;
+                    }
                 }
-                else
-                {
-                    Console.WriteLine(0);
-                }
+                Console.WriteLine(resp);     
                 n--;
             }
         }
