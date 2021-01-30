@@ -48,7 +48,6 @@ namespace URI_1038
                 default:
                     Console.WriteLine("Default case");
                     break;
-
             }
             Console.WriteLine($"Total: R$ {total.ToString("F2", CultureInfo.InvariantCulture)}");
         }
