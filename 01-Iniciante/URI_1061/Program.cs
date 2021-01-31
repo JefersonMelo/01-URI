@@ -1,25 +1,5 @@
 ﻿using System;
-/*   
-while (tg > 0)
-{
-s++;
-if (s == 60)
-{
-s = 0;
-m++;
-if (m == 60)
-{
-m = 0;
-h++;
-if (h == 24)
-{
-h = 0;
-d++;
-}
-}
-}
-tg -= m; ;
-}*/
+
 namespace URI_1061
 {
     class Program
