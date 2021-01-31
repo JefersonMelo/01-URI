@@ -20,7 +20,32 @@ namespace URI_1115
 
         static void Main( string[] args )
         {
-            Console.WriteLine("Hello World!");
+            int x, y;
+            do
+            {
+                string[] s = Console.ReadLine().Split(' ');
+                if (s[0] == "0" || s[1] == "0") { break; }
+                x = int.Parse(s[0]);
+                y = int.Parse(s[1]);
+
+                if (x > 0 && y > 0)
+                {
+                    Console.WriteLine("primeiro");
+                }
+                else if (x < 0 && y > 0)
+                {
+                    Console.WriteLine("segundo");
+                }
+                else if (x < 0 && y < 0)
+                {
+                    Console.WriteLine("terceiro");
+                }
+                else if (x > 0 && y < 0)
+                {
+                    Console.WriteLine("quarto");
+                }
+
+            } while (true);
         }
     }
 }
