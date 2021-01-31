@@ -14,7 +14,7 @@ namespace URI_1047
 	    
         7 7 7 7             O JOGO DUROU 24 HORA(S) E 0 MINUTO(S)
          */
-        // erro de compilação. Ide ok.
+        // Erro no uri. Ide ok
         static void Main( string[] args )
         {
             string[] s = Console.ReadLine().Split(' ');
@@ -37,10 +37,10 @@ namespace URI_1047
                     minutosTotais = minutoFim - minutoInicio;
                 }
             }
-            else if (horaInicio < horaFim && minutoInicio > minutoFim)
+            else if ((horaInicio < horaFim) && (minutoInicio > minutoFim))
             {
                 horasTotais = horaInicio - horaFim;
-                if (horasTotais < 0 && minutoInicio > minutoFim)
+                if ((horasTotais < 0) && (minutoInicio > minutoFim))
                 {
                     horasTotais = 0;
                     minutosTotais = minutoInicio - minutoFim;
