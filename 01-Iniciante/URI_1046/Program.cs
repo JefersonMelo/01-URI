@@ -25,14 +25,13 @@ namespace URI_1046
 
             if (inicio >= fim)
             {
-                dia = (dia - inicio) + fim;
-                Console.WriteLine($"O JOGO DUROU {dia} HORA(S)");
+                dia = (dia - inicio) + fim;               
             }
             else
             {
-                dia = fim - inicio;
-                Console.WriteLine($"O JOGO DUROU {dia} HORA(S)");
+                dia = fim - inicio;                
             }
+            Console.WriteLine($"O JOGO DUROU {dia} HORA(S)");
         }
     }
 }
