@@ -19,7 +19,25 @@ namespace URI_1116
 
         static void Main( string[] args )
         {
-            Console.WriteLine("Hello World!");
+            double r;
+            int n, x, y;
+            n = int.Parse(Console.ReadLine());
+            for (int i = 0; i < n; i++)
+            {
+                string[] s = Console.ReadLine().Split(' ');
+                x = int.Parse(s[0]);
+                y = int.Parse(s[1]);
+
+                if (y == 0)
+                {
+                    Console.WriteLine("divisao impossivel");
+                }
+                else
+                {
+                    r = (double)x / y;
+                    Console.WriteLine($"{r:f1}");
+                }
+            }
         }
     }
 }
