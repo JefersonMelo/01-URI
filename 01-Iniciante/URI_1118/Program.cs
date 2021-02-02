@@ -31,7 +31,56 @@ namespace URI_1118
 
         static void Main( string[] args )
         {
-            Console.WriteLine("Hello World!");
+            double a, b, r;
+            double[] v = new double[2];
+            bool chec = true;
+            do
+            {
+                while (chec != false)
+                {
+                    a = double.Parse(Console.ReadLine());
+                    if (a < 0 || a > 10)
+                    {
+                        Console.WriteLine("nota invalida");
+                    }
+                    else
+                    {
+                        v[0] = a;
+                        chec = false;
+                    }
+                }
+                chec = true;
+                while (chec != false)
+                {
+                    b = double.Parse(Console.ReadLine());
+                    if (b < 0 || b > 10)
+                    {
+                        Console.WriteLine("nota invalida");
+                    }
+                    else
+                    {
+                        v[1] = b;
+                        chec = false;
+                    }
+                }
+
+                if (v[0] > 0 && v[1] > 0)
+                {
+                    r = (v[0] + v[1]) / 2;
+                    Console.WriteLine($"media = {r:n2}");
+                    Console.WriteLine("novo calculo (1-sim 2-nao)");
+                    int nv = int.Parse(Console.ReadLine());
+                    if (nv == 2)
+                    {
+                        break;
+                    }
+                    else
+                    {
+                        chec = true;
+                    }
+                }
+
+            } while (chec != false);
         }
     }
 }
