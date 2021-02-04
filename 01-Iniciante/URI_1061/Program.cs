@@ -24,7 +24,7 @@ namespace URI_1061
         06 : 13 : 23        0 segundo(s)
          */
 
-        // erro no uri linhas 35 e 42 por não separar na entrada por " : ". Logica na ide.
+        // erro no uri linhas 35 e 42 por não separar na entrada por ":". Logica na ide.
         static void Main( string[] args )
         {
             int d, h, m, s;
@@ -32,14 +32,16 @@ namespace URI_1061
 
             Console.Write("Dia: ");
             d = int.Parse(Console.ReadLine());
-            string[] sep = Console.ReadLine().Split(':');// alterar
+            string resp = Console.ReadLine();
+            string[] sep = resp.Split(" : ");// alterar
             h = int.Parse(sep[0]);
             m = int.Parse(sep[1]);
             s = int.Parse(sep[2]);
 
             Console.Write("Dia: ");
-            d2 = int.Parse(Console.ReadLine()) ;
-            string[] sep2 = Console.ReadLine().Split(':');// alterar
+            d2 = int.Parse(Console.ReadLine());
+            string resp2 = Console.ReadLine();
+            string[] sep2 = resp2.Split(" : ");// alterar
             h2 = int.Parse(sep2[0]);
             m2 = int.Parse(sep2[1]);
             s2 = int.Parse(sep2[2]);
