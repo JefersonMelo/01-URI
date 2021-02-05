@@ -20,7 +20,22 @@ namespace URI_1142
 
         static void Main( string[] args )
         {
-            Console.WriteLine("Hello World!");
+            int n, cont = 1;
+            n = int.Parse(Console.ReadLine());
+            for (int i = 1; i <= n; i++)
+            {
+                if (cont < 4)
+                {
+                    Console.Write($"{i} ");
+                    cont++;
+                }
+                else
+                {
+                    Console.Write("PUM\n");
+                    cont = 1;
+                }
+                
+            }
         }
     }
 }
