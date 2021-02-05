@@ -32,7 +32,55 @@ namespace URI_1131
 
         static void Main( string[] args )
         {
-            
+            int inter, gremio, resp, grenal = 0, empate = 0, interCont = 0, gremioCont = 0;
+            string campeao;
+            do
+            {
+                string[] vet = Console.ReadLine().Split(' ');
+                inter = int.Parse(vet[0]);
+                gremio = int.Parse(vet[1]);
+
+                grenal++;
+
+                if (inter > gremio)
+                {
+                    interCont++;
+                }
+                else if (inter < gremio)
+                {
+                    gremioCont++;
+                }
+                else
+                {
+                    empate++;
+                }
+
+                Console.WriteLine("Novo grenal (1-sim 2-nao)");
+                resp = int.Parse(Console.ReadLine());
+                if (resp == 2)
+                {
+                    break;
+                }
+
+            } while (resp == 1);
+
+            if (interCont > gremioCont)
+            {
+                campeao = "Inter venceu mais";
+            }
+            else if (interCont < gremioCont)
+            {
+                campeao = "Grêmio venceu mais";
+            }
+            else
+            {
+                campeao = "";
+            }
+            Console.WriteLine($"{grenal} grenais\n" +
+                              $"Inter:{interCont}\n" +
+                              $"Gremio:{gremioCont}\n" +
+                              $"Empates:{empate}\n" +
+                              $"{campeao}");
         }
     }
 }
