@@ -26,7 +26,7 @@ namespace URI_1133
                 y = x;
                 x = aux;
             }
-            while (x >= y)
+            while (x > y)
             {
                 
                 if (y % 5 == 2 || y % 5 == 3)
