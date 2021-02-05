@@ -22,7 +22,7 @@ namespace URI_1142
         {
             int n, cont = 1;
             n = int.Parse(Console.ReadLine());
-            for (int i = 1; i <= n; i++)
+            for (int i = 1; i <= (n * 4); i++)
             {
                 if (cont < 4)
                 {
@@ -34,7 +34,6 @@ namespace URI_1142
                     Console.Write("PUM\n");
                     cont = 1;
                 }
-                
             }
         }
     }
