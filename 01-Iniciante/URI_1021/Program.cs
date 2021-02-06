@@ -51,17 +51,17 @@ namespace URI_1021
             moedas = int.Parse(v[1], CultureInfo.InvariantCulture);
 
             Console.WriteLine("NOTAS:");
-            Console.WriteLine($"{notas / 100} nota(s) de R$ 100.00");//576
-            notas %= 100;//576 - 500 = 76
-            Console.WriteLine($"{notas / 50} nota(s) de R$ 50.00");//76  
-            notas %= 50;//76 - 50 = 26
-            Console.WriteLine($"{notas / 20} nota(s) de R$ 20.00");//26
-            notas %= 20;//26 - 20 = 6
-            Console.WriteLine($"{notas / 10} nota(s) de R$ 10.00");//6
-            notas %= 10;//6 - 10 = 0
-            Console.WriteLine($"{notas / 5} nota(s) de R$ 5.00");//6
-            notas %= 5;//6 - 5 = 1
-            Console.WriteLine($"{notas / 2} nota(s) de R$ 2.00");//1
+            Console.WriteLine($"{notas / 100} nota(s) de R$ 100.00");
+            notas %= 100;
+            Console.WriteLine($"{notas / 50} nota(s) de R$ 50.00");
+            notas %= 50;
+            Console.WriteLine($"{notas / 20} nota(s) de R$ 20.00");
+            notas %= 20;
+            Console.WriteLine($"{notas / 10} nota(s) de R$ 10.00");
+            notas %= 10;
+            Console.WriteLine($"{notas / 5} nota(s) de R$ 5.00");
+            notas %= 5;
+            Console.WriteLine($"{notas / 2} nota(s) de R$ 2.00");
             //moedas
             Console.WriteLine("MOEDAS:");
             notas %= 2;
