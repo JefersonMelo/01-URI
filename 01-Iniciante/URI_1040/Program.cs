@@ -29,29 +29,33 @@ namespace URI_1040
         2.0 6.5 4.0 9.0     Media: 4.8
                             Aluno reprovado.                 
          */
-        // Não Foi Aprovado. ide ok.
+        
         static void Main( string[] args )
         {
-            double a, b, c, d;
-            double n5, media;
+            float a, b, c, d;
+            float n5, media;
             int peso = 10;
             string[] s = Console.ReadLine().Split(' ');
-            a = Math.Round(double.Parse(s[0], CultureInfo.InvariantCulture) * 2.0);
-            b = Math.Round(double.Parse(s[1], CultureInfo.InvariantCulture) * 3.0);
-            c = Math.Round(double.Parse(s[2], CultureInfo.InvariantCulture) * 4.0);
-            d = Math.Round(double.Parse(s[3], CultureInfo.InvariantCulture) * 1.0);
+            a = float.Parse(s[0], CultureInfo.InvariantCulture);
+            b = float.Parse(s[1], CultureInfo.InvariantCulture);
+            c = float.Parse(s[2], CultureInfo.InvariantCulture);
+            d = float.Parse(s[3], CultureInfo.InvariantCulture);
 
-            media = (a + b + c + d) / peso;
-            Console.WriteLine("Media: " + media.ToString("F1", CultureInfo.InvariantCulture));
+            media = ((a * 2) + (b * 3) + (c * 4) + (d * 1)) / peso;
+            Console.WriteLine($"Media: {media.ToString("F1", CultureInfo.InvariantCulture)}");
 
-            if (media > 5.0 && media < 7.0)
+            if (media >= 7)
+            {
+                Console.WriteLine("Aluno aprovado.");
+            }
+            else if (media >= 5 && media < 7)
             {
                 Console.WriteLine("Aluno em exame.");
-                n5 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                Console.WriteLine("Nota do exame: " + n5.ToString(CultureInfo.InvariantCulture));
-                media = (media + n5) / 2.0;
+                n5 = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                Console.WriteLine($"Nota do exame: {n5.ToString(CultureInfo.InvariantCulture)}");
+                media = (media + n5) / 2;
 
-                if (media >= 5.0)
+                if (media >= 5)
                 {
                     Console.WriteLine("Aluno aprovado.");
                 }
@@ -59,18 +63,11 @@ namespace URI_1040
                 {
                     Console.WriteLine("Aluno reprovado.");
                 }
-                Console.WriteLine("Media final: " + media.ToString("F1", CultureInfo.InvariantCulture));
+                Console.WriteLine($"Media final: {media.ToString("F1", CultureInfo.InvariantCulture)}");
             }
             else
-            {             
-                if (media < 5.0)
-                {
-                    Console.WriteLine("Aluno reprovado.");
-                }
-                else if (media >= 7.0)
-                {
-                    Console.WriteLine("Aluno aprovado.");
-                }
+            {
+                Console.WriteLine("Aluno aprovado.");
             }
         }
     }
