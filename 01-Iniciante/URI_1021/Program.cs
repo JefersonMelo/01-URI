@@ -45,35 +45,37 @@ namespace URI_1021
 
         static void Main( string[] args )
         {
-            double v = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.WriteLine(v.ToString(CultureInfo.InvariantCulture));
+            int notas, moedas;
+            string[] v = Console.ReadLine().Split('.');
+            notas = int.Parse(v[0], CultureInfo.InvariantCulture);
+            moedas = int.Parse(v[1], CultureInfo.InvariantCulture);
 
-            Console.WriteLine($"{Math.Truncate(v / 100)} nota(s) de R$ 100.00");//576
-            v %= 100;//576 - 500 = 76
-            Console.WriteLine($"{Math.Truncate(v / 50)} nota(s) de R$ 50.00");//76  
-            v %= 50;//76 - 50 = 26
-            Console.WriteLine($"{Math.Truncate(v / 20)} nota(s) de R$ 20.00");//26
-            v %= 20;//26 - 20 = 6
-            Console.WriteLine($"{Math.Truncate(v / 10)} nota(s) de R$ 10.00");//6
-            v %= 10;//6 - 10 = 0
-            Console.WriteLine($"{Math.Truncate(v / 5)} nota(s) de R$ 5.00");//6
-            v %= 5;//6 - 5 = 1
-            Console.WriteLine($"{Math.Truncate(v / 2)} nota(s) de R$ 2.00");//1
+            Console.WriteLine("NOTAS:");
+            Console.WriteLine($"{notas / 100} nota(s) de R$ 100.00");//576
+            notas %= 100;//576 - 500 = 76
+            Console.WriteLine($"{notas / 50} nota(s) de R$ 50.00");//76  
+            notas %= 50;//76 - 50 = 26
+            Console.WriteLine($"{notas / 20} nota(s) de R$ 20.00");//26
+            notas %= 20;//26 - 20 = 6
+            Console.WriteLine($"{notas / 10} nota(s) de R$ 10.00");//6
+            notas %= 10;//6 - 10 = 0
+            Console.WriteLine($"{notas / 5} nota(s) de R$ 5.00");//6
+            notas %= 5;//6 - 5 = 1
+            Console.WriteLine($"{notas / 2} nota(s) de R$ 2.00");//1
             //moedas
-            v %= 2;
-            Console.WriteLine($"{Math.Truncate(v)} moeda(s) de R$ 1.00");
-            v %= 1.0;
-            Console.WriteLine($"{Math.Truncate(v / 0.50)} moeda(s) de R$ 0.50");
-            v %= 0.50;
-            Console.WriteLine($"{Math.Truncate(v / 0.25)} moeda(s) de R$ 0.25");
-            v %= 0.25;
-            Console.WriteLine($"{Math.Truncate(v / 0.10)} moeda(s) de R$ 0.10");
-            v %= 0.10;
-            Console.WriteLine($"{Math.Truncate(v / 0.5)} moeda(s) de R$ 0.05");
-            v %= 0.5;
-            Console.WriteLine($"{Math.Truncate(v / 0.1)} moeda(s) de R$ 0.01");
-
-            //Não foi aceito. Plataforma aparentemente não aceita Math.Truncate
+            Console.WriteLine("MOEDAS:");
+            notas %= 2;
+            Console.WriteLine($"{notas} moeda(s) de R$ 1.00");
+            moedas %= 100;
+            Console.WriteLine($"{moedas / 50} moeda(s) de R$ 0.50");
+            moedas %= 50;
+            Console.WriteLine($"{moedas / 25} moeda(s) de R$ 0.25");
+            moedas %= 25;
+            Console.WriteLine($"{moedas / 10} moeda(s) de R$ 0.10");
+            moedas %= 10;
+            Console.WriteLine($"{moedas / 5} moeda(s) de R$ 0.05");
+            moedas %= 5;
+            Console.WriteLine($"{moedas} moeda(s) de R$ 0.01");
         }
     }
 }
