@@ -33,34 +33,35 @@ namespace URI_1118
         static void Main( string[] args )
         {
             double r, a, b;
-            int nv = 0;
+            int nv;
             bool chec = true;
 
             do
             {
                 a = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                if (a <= 10 && a >= 0)//verifica se nota dentro dos parametros
+                if (a <= 10 && a >= 0)//verifica se nota está correta
                 {
                     do
                     {
-                        nv = 0;
+                        nv = 0;//zera responta de novo cálculo
+
                         b = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-                        if (b <= 10 && b >= 0)//verifica se nota dentro dos parametros
+                        if (b <= 10 && b >= 0)//verifica se nota está correta
                         {
-                            r = (a + b) / 2;
+                            r = (a + b) / 2;// retorno da média
                             Console.WriteLine($"media = {r.ToString("F2", CultureInfo.InvariantCulture)}");
                             do
                             {
                                 Console.WriteLine("novo calculo (1-sim 2-nao)");
                                 nv = int.Parse(Console.ReadLine());
-                                if (nv == 2)
+                                if (nv == 2)// condição de parada 
                                 {
                                     nv = 1;
                                     chec = false;
                                 }
 
                             } while (nv != 1);
-                            
+
                         }
                         else
                         {
