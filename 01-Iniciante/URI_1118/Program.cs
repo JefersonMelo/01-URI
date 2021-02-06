@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace URI_1118
 {
@@ -31,42 +32,44 @@ namespace URI_1118
 
         static void Main( string[] args )
         {
-            double r;
-            double[] v = new double[2];
+            double r, a, b;
+            int nv = 0;
             bool chec = true;
+
             do
             {
-                v[0] = double.Parse(Console.ReadLine());
-                while (v[0] > 0 && v[0] <= 10)
+                a = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                if (a <= 10 && a >= 0)//verifica se nota dentro dos parametros
                 {
-                    v[1] = double.Parse(Console.ReadLine());
-                    while (v[1] > 0 && v[1] <= 10 && (v[0] > 0 && v[1] > 0))
+                    do
                     {
-                        while (v[0] > 0 && v[1] > 0)
+                        nv = 0;
+                        b = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                        if (b <= 10 && b >= 0)//verifica se nota dentro dos parametros
                         {
-                            r = (v[0] + v[1]) / 2;
-                            Console.WriteLine($"media = {r:n2}");
-                            Console.WriteLine("novo calculo (1-sim 2-nao)");
-                            int nv = int.Parse(Console.ReadLine());
-                            v[0] = 0;
-                            v[1] = 0;
-                            if (nv == 1)
+                            r = (a + b) / 2;
+                            Console.WriteLine($"media = {r.ToString("F2", CultureInfo.InvariantCulture)}");
+                            do
                             {
-                                chec = true;
-                            }
-                            else
-                            {
-                                chec = false;
-                            }
-                        }
-                    }
-                    if ((v[0] < 0 || v[1] < 0) || (v[0] > 10 || v[1] > 10))
-                    {
-                        Console.WriteLine("nota invalida");
-                    }
+                                Console.WriteLine("novo calculo (1-sim 2-nao)");
+                                nv = int.Parse(Console.ReadLine());
+                                if (nv == 2)
+                                {
+                                    nv = 1;
+                                    chec = false;
+                                }
 
+                            } while (nv != 1);
+                            
+                        }
+                        else
+                        {
+                            Console.WriteLine("nota invalida");
+                        }
+
+                    } while (nv != 1);
                 }
-                if ((v[0] < 0 || v[1] < 0) || (v[0] > 10 || v[1] > 10))
+                else
                 {
                     Console.WriteLine("nota invalida");
                 }
