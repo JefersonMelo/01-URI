@@ -32,16 +32,16 @@ namespace URI_1040
         
         static void Main( string[] args )
         {
-            float a, b, c, d;
-            float n5, media;
-            int peso = 10;
-            string[] s = Console.ReadLine().Split(' ');
-            a = float.Parse(s[0], CultureInfo.InvariantCulture);
-            b = float.Parse(s[1], CultureInfo.InvariantCulture);
-            c = float.Parse(s[2], CultureInfo.InvariantCulture);
-            d = float.Parse(s[3], CultureInfo.InvariantCulture);
+            //float a, b, c, d;
+            //float n5, media;
+            //int peso = 10;
+            //string[] s = Console.ReadLine().Split(' ');
+            double a = double.Parse(Console.ReadLine()); //float.Parse(s[0], CultureInfo.InvariantCulture);
+            double b = double.Parse(Console.ReadLine()); //float.Parse(s[1], CultureInfo.InvariantCulture);
+            double c = double.Parse(Console.ReadLine()); //float.Parse(s[2], CultureInfo.InvariantCulture);
+            double d = double.Parse(Console.ReadLine()); //float.Parse(s[3], CultureInfo.InvariantCulture);
 
-            media = ((a * 2) + (b * 3) + (c * 4) + (d * 1)) / peso;
+            double media = ((a * 2) + (b * 3) + (c * 4) + (d * 1)) / 10;
             Console.WriteLine($"Media: {media.ToString("F1", CultureInfo.InvariantCulture)}");
 
             if (media >= 7)
@@ -51,7 +51,7 @@ namespace URI_1040
             else if (media >= 5 && media < 7)
             {
                 Console.WriteLine("Aluno em exame.");
-                n5 = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                double n5 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 Console.WriteLine($"Nota do exame: {n5.ToString(CultureInfo.InvariantCulture)}");
                 media = (media + n5) / 2;
 

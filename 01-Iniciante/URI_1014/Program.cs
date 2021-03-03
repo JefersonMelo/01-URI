@@ -23,7 +23,7 @@ namespace URI_1014
             double Y, KML;
             int X;
             X = int.Parse(Console.ReadLine());
-            Y = double.Parse(Console.ReadLine());
+            Y = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             KML = X / Y;
 

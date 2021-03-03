@@ -18,45 +18,35 @@ namespace URI_1047
         static void Main( string[] args )
         {
             string[] s = Console.ReadLine().Split(' ');
-            int horaInicio, minutoInicio, horaFim, minutoFim, horasTotais, minutosTotais;
-            horasTotais = 24;
+            int horaInicio, minutoInicio, horaFim, minutoFim;/*, horasTotais, minutosTotais*/
+            //horasTotais = 24;
             horaInicio = int.Parse(s[0]);
             minutoInicio = int.Parse(s[1]);
             horaFim = int.Parse(s[2]);
             minutoFim = int.Parse(s[3]);
 
-            if (horaInicio >= horaFim)
+            TimeSpan ts1 = new TimeSpan(horaInicio, minutoInicio, 0);
+            TimeSpan ts2 = new TimeSpan(horaFim, minutoFim, 0);
+            if (ts1 == ts2)
             {
-                horasTotais = horasTotais - horaInicio + horaFim;
-                if (minutoInicio >= minutoFim)
-                {
-                    minutosTotais = minutoInicio - minutoFim;
-                }
-                else
-                {
-                    minutosTotais = minutoFim - minutoInicio;
-                }
+                Console.WriteLine("O JOGO DUROU 24 HORA(S) E 0 MINUTO(S)");
             }
-            else if ((horaInicio < horaFim) && (minutoInicio > minutoFim))
+            else if (ts1 > ts2)
             {
-                horasTotais = horaInicio - horaFim;
-                if ((horasTotais < 0) && (minutoInicio > minutoFim))
-                {
-                    horasTotais = 0;
-                    minutosTotais = minutoInicio - minutoFim;
-                    minutosTotais = 60 - minutosTotais;
-                }
-                else
-                {
-                    minutosTotais = minutoFim - minutoInicio;
-                }
+                string[] ss = (ts1 -= ts2).ToString().Split(':');
+                int h = int.Parse(ss[0]);
+                int m = int.Parse(ss[1]);
+                //Console.WriteLine(ss);
+                Console.WriteLine($"O JOGO DUROU {h} HORA(S) E {m} MINUTO(S)");
             }
             else
             {
-                horasTotais = horaFim - horaInicio;
-                minutosTotais = minutoFim - minutoInicio;
+                string[] ss = (ts2 -= ts1).ToString().Split(':');
+                int h = int.Parse(ss[0]);
+                int m = int.Parse(ss[1]);
+                //Console.WriteLine(ts2);
+                Console.WriteLine($"O JOGO DUROU {h} HORA(S) E {m} MINUTO(S)");
             }
-            Console.WriteLine($"O JOGO DUROU {horasTotais} HORA(S) E {minutosTotais} MINUTO(S)");
         }
     }
 }
