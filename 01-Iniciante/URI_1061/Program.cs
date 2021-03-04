@@ -24,52 +24,48 @@ namespace URI_1061
         06 : 13 : 23        0 segundo(s)
          */
 
-        // erro no uri linhas 35 e 42 por não separar na entrada por ":". Logica na ide.
-        static void Main( string[] args )
+        static void Main(string[] args)
         {
-            int d, h, m, s;
-            int d2, h2, m2, s2;
 
-            Console.Write("Dia: ");
-            d = int.Parse(Console.ReadLine());
-            string resp = Console.ReadLine();
-            string[] sep = resp.Split(" : ");// alterar
-            h = int.Parse(sep[0]);
-            m = int.Parse(sep[1]);
-            s = int.Parse(sep[2]);
+            int diaInicio, diaTermino, horaMomentoInicio, minutoMomentoInicio, segundoMomentoInicio;
+            int horaMomentoTermino, minutoMomentoTermino, segundoMomentoTerminio;
+            
+            string[] dadosInicio = Console.ReadLine().Split();
+            diaInicio = Convert.ToInt32(dadosInicio[1]);
 
-            Console.Write("Dia: ");
-            d2 = int.Parse(Console.ReadLine());
-            string resp2 = Console.ReadLine();
-            string[] sep2 = resp2.Split(" : ");// alterar
-            h2 = int.Parse(sep2[0]);
-            m2 = int.Parse(sep2[1]);
-            s2 = int.Parse(sep2[2]);
+            string[] dadosMomentoInicio = Console.ReadLine().Split(':');
+            horaMomentoInicio = Convert.ToInt32(dadosMomentoInicio[0]);
+            minutoMomentoInicio = Convert.ToInt32(dadosMomentoInicio[1]);
+            segundoMomentoInicio = Convert.ToInt32(dadosMomentoInicio[2]);
 
-            s = s2 - s;
-            m = m2 - m;
-            h = h2 - h;
-            d = d2 - d;
 
-            if (s < 0)
-            {
-                s += 60;
-                m--;
-            }
-            if (m < 0)
-            {
-                m += 60;
-                h--;
-            }
-            if (h < 0)
-            {
-                h += 24;
-                d--;
-            }
-            Console.WriteLine($"{d} dia(s)\n" +
-                              $"{h} hora(s)\n" +
-                              $"{m} minuto(s)\n" +
-                              $"{s} segundo(s)");
+            string[] dadosTermino = Console.ReadLine().Split();
+            diaTermino = Convert.ToInt32(dadosTermino[1]);
+
+            string[] dadosMomentoTermino = Console.ReadLine().Split(':');
+            horaMomentoTermino = Convert.ToInt32(dadosMomentoTermino[0]);
+            minutoMomentoTermino = Convert.ToInt32(dadosMomentoTermino[1]);
+            segundoMomentoTerminio = Convert.ToInt32(dadosMomentoTermino[2]);
+
+
+            int transformaSegundosInicio = segundoMomentoInicio + ( minutoMomentoInicio * 60 ) + ( horaMomentoInicio * 3600 ) + ( diaInicio * 86400 );
+            int transformaSegundosTermino = segundoMomentoTerminio + ( minutoMomentoTermino * 60 ) + ( horaMomentoTermino * 3600 ) + ( diaTermino * 86400 );
+
+            int somaTotalSegundos = transformaSegundosTermino - transformaSegundosInicio;
+            int W = somaTotalSegundos / 86400;
+            somaTotalSegundos %= 86400;
+            int X = somaTotalSegundos / 3600;
+            somaTotalSegundos %= 3600;
+            int Y = somaTotalSegundos / 60;
+            somaTotalSegundos %= 60;
+            int Z = somaTotalSegundos;
+
+            Console.WriteLine($"{W} dia(s)\n" +
+                              $"{X} hora(s)\n" +
+                              $"{Y} minuto(s)\n" +
+                              $"{Z} segundo(s)");
+
+
         }
     }
 }
