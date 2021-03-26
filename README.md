@@ -1,3 +1,3 @@
-# Respositório com Exercícios Realizados no UriOnlineJudge
+# Exercícios Realizados no UriOnlineJudge
 
->[Exercícios urionlinejudge](https://www.urionlinejudge.com.br)
+>[urionlinejudge](https://www.urionlinejudge.com.br)
