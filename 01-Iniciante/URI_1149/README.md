@@ -2,8 +2,8 @@
 
 ## Somando Inteiros Consecutivos
 
-    URI Online Judge | 1149  
-    Adaptado por Neilor Tonin, URI Brasil
+>URI Online Judge | 1149  
+>Adaptado por Neilor Tonin, URI Brasil :brazil:
 
 >Faça um algoritmo para ler um valor A e um valor N. Imprimir a soma de A 
 >para cada i com os valores (0 <= i <= N-1). 
