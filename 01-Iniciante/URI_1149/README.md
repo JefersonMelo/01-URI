@@ -13,7 +13,7 @@
 >Todos os valores estão na mesma linha.  
 >**Saída:** A saída contém apenas um valor inteiro.
 
-| Exemplo de Entrada  |  Exemplo de Saída |
-|-  |-  |
-|  3 2 |  7 |
-|  3 -1 0 -2 2 |  7  |
+| Exemplo de Entrada | Exemplo de Saída |
+| ------------------ | ---------------- |
+| 3 2                | 7                |
+| 3 -1 0 -2 2        | 7                |
