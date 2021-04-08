@@ -2,7 +2,7 @@
 
 ## Fibonacci Fácil
 
-Adaptado por Neilor Tonin, URI Brasil :brazil:
+>Adaptado por Neilor Tonin, URI Brasil :brazil:
 
 >A seguinte sequência de números 0 1 1 2 3 5 8 13 21...
 >é conhecida como série de Fibonacci. Nessa sequência,
