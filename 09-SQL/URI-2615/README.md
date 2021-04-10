@@ -10,8 +10,8 @@ Para você nos ajudar selecione o nome de todas as cidades onde a locadora tem c
 
 **Esquema**
 
-|customers|
--------
+| customers |
+| --------- |
 
 | Coluna  | Tipo    |
 | ------- | ------- |
@@ -22,8 +22,8 @@ Para você nos ajudar selecione o nome de todas as cidades onde a locadora tem c
 
 **Tabelas**
 
-|customers|
-------
+| customers |
+| --------- |
 
 | id  | name                        | street                         | city          |
 | --- | --------------------------- | ------------------------------ | ------------- |
