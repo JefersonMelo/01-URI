@@ -2,10 +2,10 @@
 
 | ID   | Problema |
 | ---- | -------- |
-| 1000 | [Hello World!](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1000) |
-| 1001 | [Extremamente Básico](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1001) |
-| 1002 | [Área do Círculo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1002) |
-| 1003 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1003)     |
+| 1000 | [Hello World!](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1000)    |
+| 1001 | [Extremamente Básico](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1001)    |
+| 1002 | [Área do Círculo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1002)    |
+| 1003 | [Soma Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1003)    |
 | 1004 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1004)     |
 | 1005 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1005)     |
 | 1006 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1006)     |
