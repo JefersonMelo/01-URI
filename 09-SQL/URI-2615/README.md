@@ -47,7 +47,7 @@ Exemplo de saída
 | Várzea Grande |
 | Salvador      |
 
-### Resposta
+## Resposta
 
 ```"
 SELECT DISTINCT city FROM customers;
