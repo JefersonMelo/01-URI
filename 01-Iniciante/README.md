@@ -9,10 +9,10 @@
 | 1004 | [Produto Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1004)     |
 | 1005 | [Média 1](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1005)     |
 | 1006 | [Média 2](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1006)     |
-| 1007 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1007)     |
-| 1008 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1008)     |
-| 1009 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1009)     |
-| 1010 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1010)     |
+| 1007 | [Diferença](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1007)     |
+| 1008 | [Salário](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1008)     |
+| 1009 | [Salário com Bônus](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1009)     |
+| 1010 | [Cálculo Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1010)     |
 | 1011 | []()     |
 | 1012 | []()     |
 | 1013 | []()     |
