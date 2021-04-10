@@ -1,4 +1,4 @@
-# Respotas
+# Soluções
 
 | ID   | Problema |
 | ---- | -------- |
