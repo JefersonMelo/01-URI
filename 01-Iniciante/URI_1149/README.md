@@ -1,4 +1,4 @@
-﻿# URI 1149
+# URI 1149
 
 ## Somando Inteiros Consecutivos
 
