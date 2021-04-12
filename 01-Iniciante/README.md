@@ -13,7 +13,7 @@
 | 1008 | [Salário](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1008)     |
 | 1009 | [Salário com Bônus](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1009)     |
 | 1010 | [Cálculo Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1010)     |
-| 1011 | []()     |
+| 1011 | [Esfera](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1011)     |
 | 1012 | []()     |
 | 1013 | []()     |
 | 1014 | []()     |
@@ -161,7 +161,7 @@
 | 2147 | []()     |
 | 2152 | []()     |
 | 2159 | []()     |
-| 2160 | []()     |
+| 2160 | [Desafio de Bino](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_2060)     |
 | 2161 | []()     |
 | 2162 | []()     |
 | 2163 | []()     |
@@ -174,5 +174,5 @@
 | 2176 | []()     |
 | 2203 | []()     |
 | 2221 | []()     |
-| 2234 | []()     |
+| 2234 | [Cachorros-Quentes](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_2234)     |
 | 2235 | []()     |
