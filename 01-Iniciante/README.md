@@ -14,7 +14,7 @@
 | 1009 | [Salário com Bônus](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1009)     |
 | 1010 | [Cálculo Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1010)     |
 | 1011 | [Esfera](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1011)     |
-| 1012 | []()     |
+| 1012 | [Área](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1012)     |
 | 1013 | []()     |
 | 1014 | []()     |
 | 1015 | []()     |
