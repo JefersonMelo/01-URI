@@ -16,8 +16,8 @@
 | 1011 | [Esfera](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1011)     |
 | 1012 | [Área](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1012)     |
 | 1013 | [O Maior](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1013)     |
-| 1014 | [Consumo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1013)     |
-| 1015 | []()     |
+| 1014 | [Consumo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1014)     |
+| 1015 | [Distância Entre Dois Pontos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1015)     |
 | 1016 | []()     |
 | 1017 | []()     |
 | 1018 | []()     |
