@@ -20,8 +20,8 @@
 | 1015 | [Distância Entre Dois Pontos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1015)     |
 | 1016 | [Distância](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1016)     |
 | 1017 | [Gasto de Combustível](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1017)     |
-| 1018 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1018)     |
-| 1019 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1019)     |
+| 1018 | [Cédulas](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1018)     |
+| 1019 | [Conversão de Tempo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1019)     |
 | 1020 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1020)     |
 | 1021 | []()     |
 | 1035 | []()     |
