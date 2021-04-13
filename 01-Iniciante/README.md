@@ -18,11 +18,11 @@
 | 1013 | [O Maior](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1013)     |
 | 1014 | [Consumo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1014)     |
 | 1015 | [Distância Entre Dois Pontos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1015)     |
-| 1016 | []()     |
-| 1017 | []()     |
-| 1018 | []()     |
-| 1019 | []()     |
-| 1020 | []()     |
+| 1016 | [Distância](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1016)     |
+| 1017 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1017)     |
+| 1018 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1018)     |
+| 1019 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1019)     |
+| 1020 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1020)     |
 | 1021 | []()     |
 | 1035 | []()     |
 | 1036 | []()     |
