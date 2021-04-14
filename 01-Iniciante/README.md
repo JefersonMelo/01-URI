@@ -23,11 +23,11 @@
 | 1018 | [Cédulas](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1018)     |
 | 1019 | [Conversão de Tempo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1019)     |
 | 1020 | [Idade em Dias](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1020)     |
-| 1021 | []()     |
-| 1035 | []()     |
-| 1036 | []()     |
-| 1037 | []()     |
-| 1038 | []()     |
+| 1021 | [Notas e Moedas](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1021)     |
+| 1035 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1022)     |
+| 1036 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1023)     |
+| 1037 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1024)     |
+| 1038 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1025)     |
 | 1040 | []()     |
 | 1041 | []()     |
 | 1042 | []()     |
