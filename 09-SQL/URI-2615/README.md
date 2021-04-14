@@ -8,8 +8,7 @@ Paulo R. Rodegheri BR Brasil :brazil:
 >A locadora tem objetivos de criar várias franquias espalhadas pelo Brasil. Para isso queremos saber em quais cidades nossos clientes moram.
 Para você nos ajudar selecione o nome de todas as cidades onde a locadora tem clientes. Mas por favor, não repita o nome da cidade.
 
-Esquema
------
+### Esquema
 
 | customers |
 | --------- |
@@ -21,8 +20,7 @@ Esquema
 | street  | varchar |
 | city    | varchar |
 
-Tabelas
-------
+### Tabelas
 
 | customers |
 | --------- |
@@ -36,8 +34,7 @@ Tabelas
 | 5   | João Almeida Lima           | Rua Rio Taiuva                 | Ponta Grossa  |
 | 6   | Diogo Melo Dias             | Rua Duzentos e Cinqüenta       | Várzea Grande |
 
-Exemplo de saída
-----  
+### Exemplo de saída  
 
 | city          |
 | ------------- |
@@ -47,8 +44,7 @@ Exemplo de saída
 | Várzea Grande |
 | Salvador      |
 
-Resposta
-----
+### Solução
 
 ```"
 SELECT DISTINCT city FROM customers;
