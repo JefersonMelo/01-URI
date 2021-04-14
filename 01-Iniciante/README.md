@@ -25,7 +25,7 @@
 | 1020 | [Idade em Dias](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1020)     |
 | 1021 | [Notas e Moedas](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1021)     |
 | 1035 | [Teste de Seleção 1](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1035)     |
-| 1036 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1036)     |
+| 1036 | [Fórmula de Bhaskara](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1036)     |
 | 1037 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1037)     |
 | 1038 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1038)     |
 | 1040 | []()     |
