@@ -8,4 +8,5 @@
 | 2602 | [Select Básico](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2602)         |
 | 2603 | [Endereço dos Clientes](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2603) |
 |2604|[Menores que 10 ou Maiores que 100](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2604)|
+|2605|[Representantes Executivos](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2605)|
 |||
