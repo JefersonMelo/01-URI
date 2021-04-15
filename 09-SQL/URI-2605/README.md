@@ -10,10 +10,12 @@ Os relatórios contemplam todas as categorias, mas por algum motivo, os forneced
 
 ### Esquema
 
-| products           |         |
-| ------------------ | ------- |
-|                    |         |
+```"
+        products
+```
+
 | Coluna             | Tipo    |
+| ------------------ | ------- |
 | id (PK)            | numeric |
 | name               | varchar |
 | amount             | numeric |
@@ -21,20 +23,24 @@ Os relatórios contemplam todas as categorias, mas por algum motivo, os forneced
 | id_providers (FK)  | numeric |
 | id_categories (FK) | numeric |
 
-| providers |         |
-| --------- | ------- |
-|           |         |
-| Coluna    | Tipo    |
-| id (PK)   | numeric |
-| name      | varchar |
-| street    | varchar |
-| city      | varchar |
-| state     | char    |
+```"
+    providers
+```
 
-| categories |         |
-| ---------- | ------- |
-|            |         |
+| Coluna  | Tipo    |
+| ------- | ------- |
+| id (PK) | numeric |
+| name    | varchar |
+| street  | varchar |
+| city    | varchar |
+| state   | char    |
+
+```"
+    categories
+```
+
 | Coluna     | Tipo    |
+| ---------- | ------- |
 | id (PK)    | numeric |
 | name       | varchar |
 
@@ -66,10 +72,12 @@ Os relatórios contemplam todas as categorias, mas por algum motivo, os forneced
 | 5   | Isabela Moraes   | Av Juiz Grande | Curitiba       |  PR   |
 | 6   | Francisco Accerr | Av Paulista    | São Paulo      |  SP   |
 
-| categories |              |
-| ---------- | ------------ |
-|            |              |
+```"
+        categories
+```
+
 | id         | name         |
+| ---------- | ------------ |
 | 1          | old stock    |
 | 2          | new stock    |
 | 3          | modern       |
