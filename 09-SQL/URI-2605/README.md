@@ -5,8 +5,8 @@
 URI Online Judge SQL | 2605  
 Paulo R. Rodegheri BR Brasil :brazil:  
 
->O setor financeiro precisa de um relatório sobre os fornecedores dos produtos que vendemos. Os relatórios contemplam todas as categorias, mas por algum motivo, os fornecedores dos produtos cuja categoria é a executiva, não estão no relatório.
-Seu trabalho é retornar os nomes dos produtos e dos fornecedores cujo código da categoria é 6.
+>O setor financeiro precisa de um relatório sobre os fornecedores dos produtos que vendemos.  
+Os relatórios contemplam todas as categorias, mas por algum motivo, os fornecedores dos produtos cuja categoria é a executiva, não estão no relatório. Seu trabalho é retornar os nomes dos produtos e dos fornecedores cujo código da categoria é 6.  
 
 ### Esquema
 
@@ -40,29 +40,31 @@ Seu trabalho é retornar os nomes dos produtos e dos fornecedores cujo código d
 
 ### Tabelas
 
-|     |     |       | products |       |       |
-| --- | --- | :---: | :------: | :---: | :---: |
-|     |     |       |          |       |       |
+```"
+                            product
+```
 
 | id  | name              | amount | price  | id_providers | id_categories |
-| --- | ----------------- | ------ | ------ | ------------ | ------------- |
-| 1   | Two-door wardrobe | 100    | 80     | 6            | 8             |
-| 2   | Dining table      | 1000   | 560    | 1            | 9             |
-| 3   | Towel holder      | 10000  | 5.50   | 5            | 1             |
-| 4   | Computer desk     | 350    | 100    | 4            | 6             |
-| 5   | Chair             | 3000   | 210.64 | 3            | 6             |
-| 6   | Single bed        | 750    | 99     | 1            | 2             |
+| --- | ----------------- | ------ | ------ | :----------: | :-----------: |
+| 1   | Two-door wardrobe | 100    | 80     |      6       |       8       |
+| 2   | Dining table      | 1000   | 560    |      1       |       9       |
+| 3   | Towel holder      | 10000  | 5.50   |      5       |       1       |
+| 4   | Computer desk     | 350    | 100    |      4       |       6       |
+| 5   | Chair             | 3000   | 210.64 |      3       |       6       |
+| 6   | Single bed        | 750    | 99     |      1       |       2       |
 
-|     |                  | categories     |                |       |
-| --- | ---------------- | -------------- | -------------- | ----- |
-|     |                  |                |                |       |
+```"
+                            categories
+```
+
 | id  | name             | street         | city           | state |
-| 1   | Henrique         | Av Brasil      | Rio de Janeiro | RJ    |
-| 2   | Marcelo Augusto  | Rua Imigrantes | Belo Horizonte | MG    |
-| 3   | Caroline Silva   | Av São Paulo   | Salvador       | BA    |
-| 4   | Guilerme Staff   | Rua Central    | Porto Alegre   | RS    |
-| 5   | Isabela Moraes   | Av Juiz Grande | Curitiba       | PR    |
-| 6   | Francisco Accerr | Av Paulista    | São Paulo      | SP    |
+| --- | ---------------- | -------------- | -------------- | :---: |
+| 1   | Henrique         | Av Brasil      | Rio de Janeiro |  RJ   |
+| 2   | Marcelo Augusto  | Rua Imigrantes | Belo Horizonte |  MG   |
+| 3   | Caroline Silva   | Av São Paulo   | Salvador       |  BA   |
+| 4   | Guilerme Staff   | Rua Central    | Porto Alegre   |  RS   |
+| 5   | Isabela Moraes   | Av Juiz Grande | Curitiba       |  PR   |
+| 6   | Francisco Accerr | Av Paulista    | São Paulo      |  SP   |
 
 | categories |              |
 | ---------- | ------------ |
@@ -89,5 +91,8 @@ Seu trabalho é retornar os nomes dos produtos e dos fornecedores cujo código d
 ### Solução
 
 ```"
-
+SELECT P.name, PRV.name 
+FROM products AS P
+INNER JOIN providers AS PRV ON P.id_providers = PRV.id
+WHERE P.id_categories = 6;
 ```
