@@ -28,12 +28,12 @@
 | 1036 | [Fórmula de Bhaskara](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1036)     |
 | 1037 | [Intervalo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1037)     |
 | 1038 | [Lanche](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1038)     |
-| 1040 | []()     |
-| 1041 | []()     |
-| 1042 | []()     |
-| 1043 | []()     |
-| 1044 | []()     |
-| 1045 | []()     |
+| 1040 | [Média 3](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1040)     |
+| 1041 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1038)     |
+| 1042 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1038)     |
+| 1043 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1038)     |
+| 1044 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1038)     |
+| 1045 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1038)     |
 | 1046 | []()     |
 | 1047 | []()     |
 | 1048 | []()     |
