@@ -13,8 +13,13 @@ Nos casos de teste nunca haverá uma situação que permite 12 meses e alguns di
 Este é apenas um exercício com objetivo de testar raciocínio matemático simples.  
 ```
 
-**Entrada:** O arquivo de entrada contém um valor inteiro.  
-**Saída:** Imprima a saída conforme exemplo fornecido.  
+### Entrada
+
+O arquivo de entrada contém um valor inteiro.  
+
+### Saída
+
+ Imprima a saída conforme exemplo fornecido.  
 
 | Exemplo de Entrada | Exemplo de Saída                   |
 | ------------------ | ---------------------------------- |
