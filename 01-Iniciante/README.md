@@ -29,8 +29,8 @@
 | 1037 | [Intervalo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1037)     |
 | 1038 | [Lanche](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1038)     |
 | 1040 | [Média 3](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1040)     |
-| 1041 | [ 	Coordenadas de um Ponto](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1041)     |
-| 1042 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1038)     |
+| 1041 | [Coordenadas de um Ponto](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1041)     |
+| 1042 | [Sort Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1042)     |
 | 1043 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1038)     |
 | 1044 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1038)     |
 | 1045 | [](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1038)     |
