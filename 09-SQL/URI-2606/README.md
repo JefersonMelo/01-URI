@@ -62,5 +62,9 @@ Seu chefe precisa que você exiba o código e o nome dos produtos, cuja categori
 ### Solução
 
 ```"
-
+SELECT P.id, P.name 
+FROM products AS P
+INNER JOIN categories AS C
+ON P.id_categories = C.id
+WHERE C.name LIKE 'super%'
 ```
