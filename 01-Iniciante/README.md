@@ -34,8 +34,8 @@
 | 1043 | [Triângulo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1043)     |
 | 1044 | [Múltiplos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1044)     |
 | 1045 | [Tipos de Triângulos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1045)     |
-| 1046 | []()     |
-| 1047 | []()     |
+| 1046 | [Tempo de Jogo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1046)     |
+| 1047 | [Tempo de Jogo com Minutos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1047)     |
 | 1048 | []()     |
 | 1049 | []()     |
 | 1050 | []()     |
