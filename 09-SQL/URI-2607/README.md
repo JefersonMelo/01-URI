@@ -50,9 +50,7 @@ OBS: Você não deve mostrar cidades repetidas.
 ### Solução
 
 ```"
-SELECT P.id, P.name 
-FROM products AS P
-INNER JOIN categories AS C
-ON P.id_categories = C.id
-WHERE C.name LIKE 'super%';
+SELECT DISTINCT city
+FROM providers
+ORDER BY city;
 ```
