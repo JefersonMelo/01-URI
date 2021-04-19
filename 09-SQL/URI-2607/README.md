@@ -46,3 +46,13 @@ OBS: Você não deve mostrar cidades repetidas.
 | Rio de Janeiro |
 | Salvador       |
 | São Paulo      |
+
+### Solução
+
+```"
+SELECT P.id, P.name 
+FROM products AS P
+INNER JOIN categories AS C
+ON P.id_categories = C.id
+WHERE C.name LIKE 'super%';
+```
