@@ -41,7 +41,6 @@ Para isso exiba somente o maior e o menor preço da tabela produtos.
 ### Solução
 
 ```"
-SELECT DISTINCT city
-FROM providers
-ORDER BY city;
+SELECT MAX(price), MIN(price)
+FROM products;
 ```
