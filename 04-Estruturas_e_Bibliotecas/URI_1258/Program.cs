@@ -5,6 +5,8 @@ using System.Linq;
 namespace URI_1258
 {
     /*
+     * https://urisolve.blogspot.com/2017/04/uri-solution-1258-t-shirts-in-c.html
+     * 
      * https://www.w3schools.com/tryit/tryit.asp?filename=tryhtml_default
      * 
      * https://pt.stackoverflow.com/questions/5083/como-ordenar-lista-com-objeto-complexo-por-uma-de-suas-propriedades
@@ -20,75 +22,56 @@ namespace URI_1258
      */
     class Program
     {
-        static Camiseta camisa = new Camiseta();
         static void Main(string[] args)
         {
-            string cor;
-            char tamanho;
-            string nomePessoa;
+            List<Camiseta> listPedido = new List<Camiseta>();
+            int qtdPedidos = int.Parse(Console.ReadLine());
+            string nome;
 
-            int qtdEntradas = int.Parse(Console.ReadLine());
             do
             {
-                while ( qtdEntradas > 0 )
+                while ( qtdPedidos > 0 )
                 {
-                    nomePessoa = Console.ReadLine();
-                    string[] camiseta = Console.ReadLine().Split();
-                    cor = camiseta[0];
-                    tamanho = char.Parse(camiseta[1]);
-                    Camiseta novaCamiseta = new Camiseta(nomePessoa, cor, tamanho);
-                    camisa.Insere(novaCamiseta);
-                    qtdEntradas--;
+                    nome = Console.ReadLine();
+                    string[] dadosCamisa = Console.ReadLine().Split();
+                    listPedido.Add(new Camiseta
+                    {
+                        Nome = nome,
+                        Cor = dadosCamisa[0],
+                        Tamanho = char.Parse(dadosCamisa[1])
+                    });
+                    qtdPedidos--;
+                }
+                IEnumerable<Camiseta> ordenarList = from pedido in listPedido
+                                                    orderby pedido.Cor ascending,
+                                                    pedido.Tamanho descending,
+                                                    pedido.Nome ascending
+                                                    select pedido;
+                foreach ( var item in ordenarList )
+                {
+                    Console.WriteLine(item);
                 }
 
-                qtdEntradas = int.Parse(Console.ReadLine());
+                qtdPedidos = int.Parse(Console.ReadLine());
 
-            } while ( qtdEntradas != 0 );
+                if ( qtdPedidos != 0 )
+                {
+                    Console.WriteLine();
+                    listPedido.Clear();
+                }
 
-            var lista = camisa.Listar();
-            IEnumerable<Camiseta> ordem = lista.OrderBy(cor => cor.Cor);//.OrderByDescending(tamanho => tamanho.Tamanho).OrderBy(nome => nome.NomePessoa);
-
-            foreach ( var item in ordem )
-            {
-                Console.WriteLine(item);
-            }
+            } while ( qtdPedidos != 0 );
         }
 
         public class Camiseta
         {
-            private string cor;
-            private char tamanho;
-            private string nomePessoa;
-
-            List<Camiseta> listCamiseta = new List<Camiseta>();
-
-            public Camiseta( ) { }
-
-            public Camiseta(string nomePessoa, string cor, char tamanho)
-            {
-                this.cor = cor;
-                this.tamanho = tamanho;
-                this.nomePessoa = nomePessoa;
-            }
-
-            public string Cor { get => cor; set => cor = value; }
-            public char Tamanho { get => tamanho; set => tamanho = value; }
-            public string NomePessoa { get => nomePessoa; set => nomePessoa =  value ; }
-
-            public void Insere(Camiseta objeto)
-            {
-                listCamiseta.Add(objeto);
-            }
-
-            public List<Camiseta> Listar( )
-            {
-                //IEnumerable<Camiseta> ordem = lista.OrderBy(cor => cor.Cor);
-                return listCamiseta;
-            }
+            public string Cor { get; set; }
+            public char Tamanho { get; set; }
+            public string Nome { get; set; }
 
             public override string ToString( )
             {
-                return $"{cor} {tamanho} {nomePessoa}";
+                return $"{Cor} {Tamanho} {Nome}";
             }
         }
     }
