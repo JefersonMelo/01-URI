@@ -27,16 +27,17 @@ Então seu trabalho será exibir o nome e a quantidade de produtos de cada uma c
 
 ### Tabelas
 
-| products |                    |        |        |               |
-| -------- | ------------------ | ------ | ------ | ------------- |
-|          |                    |        |        |               |
-| id       | name               | amount | price  | id_categories |
-| 1        | Two-doors wardrobe | 100    | 800    | 1             |
-| 2        | Dining table       | 1000   | 560    | 3             |
-| 3        | Towel holder       | 10000  | 25.50  | 4             |
-| 4        | Computer desk      | 350    | 320.50 | 2             |
-| 5        | Chair              | 3000   | 210.64 | 4             |
-| 6        | Single bed         | 750    | 460    | 1             |
+| products |
+| -------- |  
+
+| id  | name               | amount | price  | id_categories |
+| --- | ------------------ | ------ | ------ | ------------- |
+| 1   | Two-doors wardrobe | 100    | 800    | 1             |
+| 2   | Dining table       | 1000   | 560    | 3             |
+| 3   | Towel holder       | 10000  | 25.50  | 4             |
+| 4   | Computer desk      | 350    | 320.50 | 2             |
+| 5   | Chair              | 3000   | 210.64 | 4             |
+| 6   | Single bed         | 750    | 460    | 1             |
 
 | categories |              |
 | ---------- | ------------ |
@@ -59,5 +60,9 @@ Então seu trabalho será exibir o nome e a quantidade de produtos de cada uma c
 ### Solução
 
 ```"
-
+SELECT C.name, SUM(P.amount)
+FROM products AS P
+INNER JOIN categories AS C
+ON P.id_categories = C.id
+GROUP BY C.name;
 ```
