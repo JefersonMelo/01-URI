@@ -12,3 +12,5 @@
 |2606|[Categorias](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2606)|
 |2607|[Cidades em Ordem Alfabética](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2607)|
 |2608|[Maior e Menor Preço](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2608)|
+|2609|[Produtos por Categorias](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2609)|
+|||

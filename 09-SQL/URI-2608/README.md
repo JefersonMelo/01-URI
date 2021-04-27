@@ -13,7 +13,7 @@ Para isso exiba somente o maior e o menor preço da tabela produtos.
 | products |         |
 | -------- | ------- |
 | Coluna   | Tipo    |
-|          |
+|          |         |
 | id (PK)  | numeric |
 | name     | varchar |
 | amount   | numeric |
