@@ -198,3 +198,16 @@
 | 2551 | []()     |
 | 2552 | []()     |
 | 2554 | [Pizza Antes de BH](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_2554)     |
+| 2581 | []()     |
+| 2582 | []()     |
+| 2626 | []()     |
+| 2630 | []()     |
+| 2632 | []()     |
+| 2635 | []()     |
+| 2653 | []()     |
+| 2663 | []()     |
+| 2670 | []()     |
+| 2685 | []()     |
+| 2686 | []()     |
+| 2699 | []()     |
+| 2702 | [Escolha Difícil](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_2702) |
