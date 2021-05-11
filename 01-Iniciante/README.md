@@ -80,7 +80,7 @@
 | 1145 | []()     |
 | 1146 | []()     |
 | 1149 | []()     |
-| 1150 | []()     |
+| 1150 | [Ultrapassando Z](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1150)     |
 | 1151 | []()     |
 | 1153 | []()     |
 | 1154 | []()     |
