@@ -6,7 +6,25 @@ namespace URI_1150
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int R = int.Parse(Console.ReadLine());
+            int V = 0;
+            int b = 0;
+            int c = 0;
+
+            do
+            {
+                V = int.Parse(Console.ReadLine());
+
+            } while ( R >= V );
+
+            do
+            {
+                b += R;
+                c++;
+                R++;
+            } while ( b <= V );
+
+            Console.WriteLine(c);
         }
     }
 }
