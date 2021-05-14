@@ -52,11 +52,16 @@ A vídeo locadora está fazendo seu relatório semestral e precisa da sua ajuda.
 
 ### Exemplo de saída
 
-name|rentals_date
-Giovanna Goncalves Oliveira|2016-09-02
+| name                        | rentals_date |
+| --------------------------- | ------------ |
+| Giovanna Goncalves Oliveira | 2016-09-02   |
 
 ### Solução
 
 ```"
-
+SELECT cliente.name, data.rentals_date
+FROM customers AS cliente
+JOIN rentals AS data
+ON cliente.id = data.id_customers
+WHERE EXTRACT(MONTH FROM data.rentals_date) = 9;
 ```

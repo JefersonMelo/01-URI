@@ -36,3 +36,8 @@ VALUES
   
   /*  Execute this query to drop the tables */
   -- DROP TABLE rentals, customers; --
+SELECT cliente.name, data.rentals_date
+FROM customers AS cliente
+JOIN rentals AS data
+ON cliente.id = data.id_customers
+WHERE EXTRACT(MONTH FROM data.rentals_date) = 9;
