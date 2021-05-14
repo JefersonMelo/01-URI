@@ -57,5 +57,9 @@ Seu trabalho para nós ajudar é selecionar o ID e o nome dos filmes cujo preço
 ### Solução
 
 ```"
-
+SELECT filme.id, filme.name
+FROM movies AS filme
+INNER JOIN prices AS preco
+ON filme.id_prices = preco.id
+WHERE preco.value < 2.00;
 ```

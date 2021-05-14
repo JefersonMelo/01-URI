@@ -34,3 +34,9 @@ VALUES
   
   /*  Execute this query to drop the tables */
   -- DROP TABLE movies, prices; --
+
+SELECT filme.id, filme.name
+FROM movies AS filme
+INNER JOIN prices AS preco
+ON filme.id_prices = preco.id
+WHERE preco.value < 2.00;
