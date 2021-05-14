@@ -33,5 +33,6 @@ VALUES
 /*  Execute this query to drop the tables */
 -- DROP TABLE movies, genres; --
 
-
-
+SELECT filme.id, filme.name
+FROM movies as filme, genres as genero
+WHERE filme.id_genres = genero.id AND genero.description='Action';

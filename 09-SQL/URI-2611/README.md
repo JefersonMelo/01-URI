@@ -9,33 +9,37 @@ Uma Vídeo locadora contratou seus serviços para catalogar os filmes dela. Eles
 
 ### Esquema
 
-| movies         |         |
-| -------------- | ------- |
+#### movies
+
 | Coluna         | Tipo    |
+| -------------- | ------- |
 | id (PK)        | numeric |
 | name           | varchar |
 | id_genres (FK) | numeric |
 
-| genres      |         |
-| ----------- | ------- |
+#### genres
+
 | Coluna      | Tipo    |
+| ----------- | ------- |
 | id (PK)     | numeric |
 | description | varchar |
 
 ### Tabelas
 
-| movies |                              |           |
-| ------ | ---------------------------- | --------- |
+#### movies
+
 | id     | name                         | id_genres |
+| ------ | ---------------------------- | --------- |
 | 1      | Batman                       | 3         |
 | 2      | The Battle of the Dark River | 3         |
 | 3      | White Duck                   | 1         |
 | 4      | Breaking Barriers            | 4         |
 | 5      | The Two Hours                | 2         |
 
-| genres |             |
-| ------ | ----------- |
+#### genres
+
 | id     | description |
+| ------ | ----------- |
 | 1      | Animation   |
 | 2      | Horror      |
 | 3      | Action      |
@@ -44,14 +48,15 @@ Uma Vídeo locadora contratou seus serviços para catalogar os filmes dela. Eles
 
 ### Exemplo de saída
 
-|     |                              |
-| --- | ---------------------------- |
 | id  | name                         |
+| --- | ---------------------------- |
 | 1   | Batman                       |
 | 2   | The Battle of the Dark River |
 
 ### Solução
 
 ```"
-
+SELECT filme.id, filme.name
+FROM movies as filme, genres as genero
+WHERE filme.id_genres = genero.id AND genero.description='Action';
 ```
