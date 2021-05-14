@@ -21,3 +21,7 @@ VALUES
 
  /*  Execute this query to drop the tables */
  -- DROP TABLE products; --
+-- Select rows from a Table or View 'TableOrViewName' in schema 'SchemaName'
+SELECT ROUND(AVG(price),2) "price"
+FROM products;
+GO

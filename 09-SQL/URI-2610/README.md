@@ -3,7 +3,7 @@
 ## Valor Médio dos Produtos
 
 >URI Online Judge SQL | 2610  
->Paulo R. Rodegheri BR Brasil :brazil:  
+>Paulo R. Rodegheri Brasil :brazil:  
 
 >Na empresa que você trabalha está sendo feito um levantamento sobre os valores dos produtos que são comercializados.  
 Para ajudar o setor que está fazendo esse levantamento você deve calcular e exibir o valor médio do preço dos produtos.  
@@ -40,4 +40,6 @@ Para ajudar o setor que está fazendo esse levantamento você deve calcular e ex
 ### Solução
 
 ```"
+SELECT ROUND(AVG(price),2) "price"
+FROM products;
 ```
