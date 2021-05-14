@@ -15,3 +15,4 @@
 |2609|[Produtos por Categorias](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2609)|
 |2610|[Valor Médio dos Produtos](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2610)|
 |2611|[Filmes de Ação](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2611)|
+|2613|[Filmes em Promoção](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2613)|
