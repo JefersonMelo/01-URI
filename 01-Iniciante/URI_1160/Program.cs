@@ -24,8 +24,8 @@ namespace URI_1160
 
                 while ( pa <= pb )
                 {
-                    pa = ( int )( pa * ( 1.0 + cpa / 100 ) );
-                    pb = ( int )( pb * ( 1.0 + cpb / 100 ) );
+                    pa = (int)(pa * ( 1.0 + cpa / 100 ));
+                    pb = (int)(pb * ( 1.0 + cpb / 100 ));
                     anos++;
 
                     if ( anos > 100 )
