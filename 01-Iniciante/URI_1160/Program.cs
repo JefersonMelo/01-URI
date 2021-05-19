@@ -19,27 +19,23 @@ namespace URI_1160
                 pa = int.Parse(valores[0]);
                 pb = int.Parse(valores[1]);
 
-                //declare as variaveis corretamente
                 cpa = double.Parse(valores[2], CultureInfo.InvariantCulture);
                 cpb = double.Parse(valores[3], CultureInfo.InvariantCulture);
 
                 while ( pa <= pb )
                 {
-                    //complete o while
-                    pa += ( int )( pa * cpa ) / 100;
-                    pb += ( int )( pb * cpb ) / 100;
+                    pa = ( int )( pa * ( 1.0 + cpa / 100 ) );
+                    pb = ( int )( pb * ( 1.0 + cpb / 100 ) );
                     anos++;
 
                     if ( anos > 100 )
                     {
-                        //complete a condicional
                         break;
                     }
                 }
 
                 if ( anos <= 100 )
                 {
-                    //complete a condicional
                     Console.WriteLine($"{anos} anos.");
                 }
                 else
