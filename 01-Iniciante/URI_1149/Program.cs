@@ -6,7 +6,7 @@ namespace URI_1149
     {
         static void Main(string[] args)
         {
-            int x = 0, n = 0, b = 0;
+            int x, n = 0, b = 0;
 
             string[] line = Console.ReadLine().Split(' ');
             x = int.Parse(line[0]);
@@ -19,10 +19,7 @@ namespace URI_1149
                 }
             }
 
-
-            while ( n <= 0 )
-                n = int.Parse(Console.ReadLine());
-            for ( int i = 1; i <= n; i++ )
+            for ( int i = 0; i < n; i++ )
             {
                 b += x;
                 x++;
