@@ -6,7 +6,17 @@ namespace URI_1156
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            float s = 1;
+
+            int x = 2;
+
+            for ( int i = 3; i <= 39; i+=2 )
+            {
+                s += ( float )i / ( float )x;
+                
+                x *= 2;
+            }
+            Console.WriteLine($"{s:F2}");
         }
     }
 }

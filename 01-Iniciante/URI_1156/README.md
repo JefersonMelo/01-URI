@@ -18,4 +18,4 @@ O valor deve ser impresso com dois dígitos após o ponto decimal.
 
 |Exemplo de Entrada|Exemplo de Saída|
 |-|-|
-|||
+||6.00|
