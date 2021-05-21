@@ -1,6 +1,6 @@
 # Soluções
 
-| ID   | Problema |
+| ID   | Solução |
 | ---- | -------- |
 | 1000 | [Hello World!](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1000/Program.cs)    |
 | 1001 | [Extremamente Básico](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1001/Program.cs)    |
