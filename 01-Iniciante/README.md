@@ -52,44 +52,44 @@
 | 1071 | [Soma de Impares Consecutivos I](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1071/Program.cs)     |
 | 1072 | [Intervalo 2](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1072/Program.cs)     |
 | 1073 | [Quadrado de Pares](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1073/Program.cs)     |
-| 1074 | []()     |
-| 1075 | []()     |
-| 1078 | []()     |
-| 1079 | []()     |
-| 1080 | []()     |
-| 1094 | []()     |
-| 1095 | []()     |
-| 1096 | []()     |
-| 1097 | []()     |
-| 1098 | []()     |
-| 1099 | []()     |
-| 1101 | []()     |
-| 1113 | []()     |
-| 1114 | []()     |
-| 1115 | []()     |
-| 1116 | []()     |
-| 1117 | []()     |
-| 1118 | []()     |
-| 1131 | []()     |
-| 1132 | []()     |
-| 1133 | []()     |
-| 1134 | []()     |
-| 1142 | []()     |
-| 1143 | []()     |
-| 1144 | []()     |
-| 1145 | []()     |
-| 1146 | []()     |
+| 1074 | [Par ou Ímpar](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1074/Program.cs)     |
+| 1075 | [Resto 2](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1075/Program.cs)     |
+| 1078 | [Tabuada](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1078/Program.cs)     |
+| 1079 | [Médias Ponderadas](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1079/Program.cs)     |
+| 1080 | [Maior e Posição](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1080/Program.cs)     |
+| 1094 | [Experiências](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1094/Program.cs)    |
+| 1095 | [Sequencia IJ 1](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1095/Program.cs)     |
+| 1096 | [Sequencia IJ 2](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1096/Program.cs)    |
+| 1097 | [Sequencia IJ 3](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1097/Program.cs)    |
+| 1098 | [Sequencia IJ 4](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1098/Program.cs)    |
+| 1099 | [Soma de Ímpares Consecutivos II](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1099/Program.cs)    |
+| 1101 | [Sequência de Números e Soma](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1101/Program.cs)    |
+| 1113 | [Crescente e Decrescente](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1113/Program.cs)    |
+| 1114 | [Senha Fixa](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1114/Program.cs)    |
+| 1115 | [Quadrante](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1115/Program.cs)    |
+| 1116 | [Dividindo X por Y](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1116/Program.cs)    |
+| 1117 | [Validação de Nota](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1117/Program.cs)    |
+| 1118 | [Várias Notas Com Validação](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1118/Program.cs)   |
+| 1131 | [Grenais](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1131/Program.cs)    |
+| 1132 | [Múltiplos de 13](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1132/Program.cs)  |
+| 1133 | [Resto da Divisão](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1133/Program.cs)   |
+| 1134 | [Tipo de Combustível](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1134/Program.cs)    |
+| 1142 | [PUM](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1142/Program.cs)   |
+| 1143 | [Quadrado e ao Cubo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1143/Program.cs)    |
+| 1144 | [Sequência Lógica](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1144/Program.cs)   |
+| 1145 | [Sequência Lógica 2](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1145/Program.cs)    |
+| 1146 | [Sequências Crescentes](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1146/Program.cs)     |
 | 1149 | [Somando Inteiros Consecutivos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1149)     |
 | 1150 | [Ultrapassando Z](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1150)     |
-| 1151 | []()     |
-| 1153 | []()     |
+| 1151 | [Fibonacci Fácil](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1151/Program.cs)     |
+| 1153 | [Fatorial Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1153/Program.cs)     |
 | 1154 | [Idades](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1154)     |
 | 1155 | []()     |
 | 1156 | []()     |
-| 1157 | []()     |
+| 1157 | [Divisores I](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1157/Program.cs)     |
 | 1158 | []()     |
 | 1159 | []()     |
-| 1160 | []()     |
+| 1160 | [Crescimento Populacional](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1160/Program.cs)    |
 | 1164 | []()     |
 | 1165 | [Número Primo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1165)     |
 | 1172 | []()     |
