@@ -36,19 +36,19 @@
 | 1045 | [Tipos de Triângulos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1045)     |
 | 1046 | [Tempo de Jogo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1046)     |
 | 1047 | [Tempo de Jogo com Minutos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1047/Program.cs)     |
-| 1048 | [Aumento de Sal�rio](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1048/Program.cs)     |
+| 1048 | [Aumento de Salário](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1048/Program.cs)     |
 | 1049 | [Animal](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1049/Program.cs)     |
 | 1050 | [DDD](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1050/Program.cs)     |
 | 1051 | [Imposto de Renda](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1051/Program.cs)     |
-| 1052 | [M�s](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1052/Program.cs)     |
-| 1059 | [N�meros Pares]()     |
-| 1060 | [N�meros Positivos]()     |
+| 1052 | [Mês](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1052/Program.cs)     |
+| 1059 | [Números Pares]()     |
+| 1060 | [Números Positivos]()     |
 | 1061 | [Tempo de um Evento]()     |
-| 1064 | [Positivos e M�dia]()     |
-| 1065 | [Pares entre Cinco N�meros]()     |
-| 1066 | [Pares, �mpares, Positivos e Negativos]()     |
-| 1067 | [N�meros �mpares]()     |
-| 1070 | [Seis N�meros �mpares]()     |
+| 1064 | [Positivos e Mídia]()     |
+| 1065 | [Pares entre Cinco Números]()     |
+| 1066 | [Pares, Ímpares, Positivos e Negativos]()     |
+| 1067 | [Números Ímpares]()     |
+| 1070 | [Seis Números Ímpares]()     |
 | 1071 | [Soma de Impares Consecutivos I]()     |
 | 1072 | [Intervalo 2]()     |
 | 1073 | [Quadrado de Pares]()     |
