@@ -34,7 +34,7 @@
 | 1043 | [Triângulo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1043/Program.cs)|:white_check_mark:|
 | 1044 | [Múltiplos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1044/Program.cs)|:white_check_mark:|
 | 1045 | [Tipos de Triângulos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1045/Program.cs)|:white_check_mark:|
-| 1046 | [Tempo de Jogo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1046)     |
+| 1046 | [Tempo de Jogo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1046/Program.cs)|:white_check_mark:|
 | 1047 | [Tempo de Jogo com Minutos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1047/Program.cs)|:white_check_mark:|
 | 1048 | [Aumento de Salário](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1048/Program.cs)|:white_check_mark:|
 | 1049 | [Animal](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1049/Program.cs)|:white_check_mark:|
