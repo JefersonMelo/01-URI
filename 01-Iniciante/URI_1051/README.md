@@ -2,7 +2,7 @@
 
 ## Imposto de Renda
 
->URI Online Judge | 1051
+>URI Online Judge | 1051  
 >Por Neilor Tonin, URI Brasil :brazil:  
 
 Em um país imaginário denominado Lisarb, todos os habitantes ficam felizes em pagar seus impostos, pois sabem que nele não existem políticos corruptos e os recursos arrecadados são utilizados em benefício da população, sem qualquer desvio. A moeda deste país é o Rombus, cujo símbolo é o R$.  
