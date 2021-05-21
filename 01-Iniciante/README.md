@@ -24,16 +24,16 @@
 | 1019 | [Conversão de Tempo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1019/Program.cs)|:white_check_mark:|
 | 1020 | [Idade em Dias](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1020/Program.cs)|:white_check_mark:|
 | 1021 | [Notas e Moedas](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1021/Program.cs)|:white_check_mark:|
-| 1035 | [Teste de Seleção 1](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1035)     |
+| 1035 | [Teste de Seleção 1](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1035/Program.cs)|:white_check_mark:|
 | 1036 | [Fórmula de Bhaskara](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1036/Program.cs)|:white_check_mark:|
 | 1037 | [Intervalo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1037/Program.cs)|:white_check_mark:|
 | 1038 | [Lanche](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1038/Program.cs)|:white_check_mark:|
 | 1040 | [Média 3](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1040/Program.cs)|:white_check_mark:|
-| 1041 | [Coordenadas de um Ponto](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1041)     |
+| 1041 | [Coordenadas de um Ponto](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1041/Program.cs)|:white_check_mark:|
 | 1042 | [Sort Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1042/Program.cs)|:white_check_mark:|
 | 1043 | [Triângulo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1043/Program.cs)|:white_check_mark:|
 | 1044 | [Múltiplos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1044/Program.cs)|:white_check_mark:|
-| 1045 | [Tipos de Triângulos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1045)     |
+| 1045 | [Tipos de Triângulos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1045/Program.cs)|:white_check_mark:|
 | 1046 | [Tempo de Jogo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1046)     |
 | 1047 | [Tempo de Jogo com Minutos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1047/Program.cs)|:white_check_mark:|
 | 1048 | [Aumento de Salário](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1048/Program.cs)|:white_check_mark:|
