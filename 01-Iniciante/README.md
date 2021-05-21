@@ -2,9 +2,9 @@
 
 | ID   | Solução |Status|
 | ---- | -------- |-|
-| 1000 | [Hello World!](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1000/Program.cs)|:white_check_mark:|:white_check_mark:|
+| 1000 | [Hello World!](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1000/Program.cs)|:white_check_mark:|
 | 1001 | [Extremamente Básico](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1001/Program.cs)|:white_check_mark:|
-| 1002 | [Área do Círculo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1002/Program.cs)    |
+| 1002 | [Área do Círculo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1002/Program.cs)|:white_check_mark:|
 | 1003 | [Soma Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1003/Program.cs)|:white_check_mark:|
 | 1004 | [Produto Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1004/Program.cs)|:white_check_mark:|
 | 1005 | [Média 1](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1005/Program.cs)|:white_check_mark:|
