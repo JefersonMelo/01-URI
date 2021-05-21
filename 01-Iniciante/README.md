@@ -93,7 +93,7 @@
 | 1164 | []()     |
 | 1165 | [Número Primo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1165)     |
 | 1172 | []()     |
-| 1173 | []()     |
+| 1173 | ![img]()     |
 | 1174 | []()     |
 | 1175 | []()     |
 | 1176 | []()     |
