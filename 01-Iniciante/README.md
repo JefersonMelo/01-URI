@@ -39,7 +39,7 @@
 | 1048 | [Aumento de Salário](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1048)     |
 | 1049 | [Animal](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1049)     |
 | 1050 | [DDD](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1050)     |
-| 1051 | []()     |
+| 1051 | [Imposto de Renda](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1051)     |
 | 1052 | []()     |
 | 1059 | []()     |
 | 1060 | []()     |
