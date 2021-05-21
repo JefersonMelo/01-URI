@@ -36,7 +36,7 @@
 | 1045 | [Tipos de Tri√¢ngulos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1045)     |
 | 1046 | [Tempo de Jogo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1046)     |
 | 1047 | [Tempo de Jogo com Minutos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1047)     |
-| 1048 | []()     |
+| 1048 | [Aumento de Sal·rio](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1048)     |
 | 1049 | []()     |
 | 1050 | []()     |
 | 1051 | []()     |
@@ -83,7 +83,7 @@
 | 1150 | [Ultrapassando Z](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1150)     |
 | 1151 | []()     |
 | 1153 | []()     |
-| 1154 | []()     |
+| 1154 | [Idades](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1154)     |
 | 1155 | []()     |
 | 1156 | []()     |
 | 1157 | []()     |
