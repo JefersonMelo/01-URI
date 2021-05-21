@@ -39,4 +39,10 @@ VALUES
 
   /*  Execute this query to drop the tables */
   -- DROP TABLE locations, customers; --
-  
+  SELECT cliente.id, cliente.name
+  FROM customers AS cliente
+  WHERE cliente.id NOT IN(
+    SELECT locacao.id_customers
+    FROM locations AS locacao
+    WHERE locacao.id_customers = cliente.id
+  );
