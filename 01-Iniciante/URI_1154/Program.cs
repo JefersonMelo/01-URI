@@ -6,7 +6,20 @@ namespace URI_1154
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int cont = 0;
+            float media, soma = 0;
+
+            int num = int.Parse(Console.ReadLine());
+
+            while ( num >= 0 )
+            {
+                cont++;
+                soma += num;
+
+                num = int.Parse(Console.ReadLine());
+            }
+            media = soma / cont;
+            Console.WriteLine($"{media:F2}");
         }
     }
 }
