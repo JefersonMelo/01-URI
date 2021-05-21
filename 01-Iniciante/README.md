@@ -37,7 +37,7 @@
 | 1046 | [Tempo de Jogo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1046)     |
 | 1047 | [Tempo de Jogo com Minutos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1047)     |
 | 1048 | [Aumento de Salário](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1048)     |
-| 1049 | []()     |
+| 1049 | [Animal](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1049)     |
 | 1050 | []()     |
 | 1051 | []()     |
 | 1052 | []()     |
