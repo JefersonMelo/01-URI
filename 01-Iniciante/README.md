@@ -85,7 +85,7 @@
 | 1153 | [Fatorial Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1153/Program.cs)|:white_check_mark:|
 | 1154 | [Idades](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1154/Program.cs)|:white_check_mark:|
 | 1155 | [Sequência S](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1155/Program.cs)|:white_check_mark:|
-| 1156 | []()|
+| 1156 | [Sequência S II](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1155/Program.cs)|:white_check_mark:|
 | 1157 | [Divisores I](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1157/Program.cs)|:white_check_mark:|
 | 1158 | []()|
 | 1159 | []()|
