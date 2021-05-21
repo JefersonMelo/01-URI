@@ -41,17 +41,17 @@
 | 1050 | [DDD](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1050/Program.cs)     |
 | 1051 | [Imposto de Renda](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1051/Program.cs)     |
 | 1052 | [Mês](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1052/Program.cs)     |
-| 1059 | [Números Pares]()     |
-| 1060 | [Números Positivos]()     |
-| 1061 | [Tempo de um Evento]()     |
-| 1064 | [Positivos e Mídia]()     |
-| 1065 | [Pares entre Cinco Números]()     |
-| 1066 | [Pares, Ímpares, Positivos e Negativos]()     |
-| 1067 | [Números Ímpares]()     |
-| 1070 | [Seis Números Ímpares]()     |
-| 1071 | [Soma de Impares Consecutivos I]()     |
-| 1072 | [Intervalo 2]()     |
-| 1073 | [Quadrado de Pares]()     |
+| 1059 | [Números Pares](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1059/Program.cs)     |
+| 1060 | [Números Positivos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1060/Program.cs)     |
+| 1061 | [Tempo de um Evento](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1061/Program.cs)     |
+| 1064 | [Positivos e Mídia](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1064/Program.cs)     |
+| 1065 | [Pares entre Cinco Números](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1065/Program.cs)     |
+| 1066 | [Pares, Ímpares, Positivos e Negativos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1066/Program.cs)     |
+| 1067 | [Números Ímpares](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1067/Program.cs)     |
+| 1070 | [Seis Números Ímpares](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1070/Program.cs)     |
+| 1071 | [Soma de Impares Consecutivos I](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1071/Program.cs)     |
+| 1072 | [Intervalo 2](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1072/Program.cs)     |
+| 1073 | [Quadrado de Pares](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1073/Program.cs)     |
 | 1074 | []()     |
 | 1075 | []()     |
 | 1078 | []()     |
