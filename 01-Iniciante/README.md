@@ -1,8 +1,8 @@
 # Soluções
 
-| ID   | Solução |
-| ---- | -------- |
-| 1000 | [Hello World!](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1000/Program.cs)    |
+| ID   | Solução |Status|
+| ---- | -------- |-|
+| 1000 | [Hello World!](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1000/Program.cs)    |:white_check_mark:|
 | 1001 | [Extremamente Básico](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1001/Program.cs)    |
 | 1002 | [Área do Círculo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1002)    |
 | 1003 | [Soma Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1003/Program.cs)    |
@@ -93,7 +93,7 @@
 | 1164 | []()     |
 | 1165 | [Número Primo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1165)     |
 | 1172 | []()     |
-| 1173 | ![img](https://github.com/JefersonMelo/01-URI/blob/master/img/ok.png)     |
+| 1173 | []()     |
 | 1174 | []()     |
 | 1175 | []()     |
 | 1176 | []()     |
