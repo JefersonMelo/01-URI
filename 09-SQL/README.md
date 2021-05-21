@@ -18,3 +18,4 @@
 |2614|[Locações de Setembro](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2614)|:white_check_mark:|
 |2615|[Expandindo o Negocio](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2615)|:white_check_mark:|
 |2616|[Nenhuma Locação](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2616)|:white_check_mark:|
+|2617|[Fornecedor Ajax SA](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2617)|:white_check_mark:|
