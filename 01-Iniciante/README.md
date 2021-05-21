@@ -69,14 +69,14 @@
 | 1115 | [Quadrante](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1115/Program.cs)|:white_check_mark:|
 | 1116 | [Dividindo X por Y](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1116/Program.cs)|:white_check_mark:|
 | 1117 | [Validação de Nota](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1117/Program.cs)|:white_check_mark:|
-| 1118 | [Várias Notas Com Validação](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1118/Program.cs)   |
+| 1118 | [Várias Notas Com Validação](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1118/Program.cs)|:white_check_mark:|
 | 1131 | [Grenais](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1131/Program.cs)|:white_check_mark:|
-| 1132 | [Múltiplos de 13](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1132/Program.cs)  |
-| 1133 | [Resto da Divisão](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1133/Program.cs)   |
+| 1132 | [Múltiplos de 13](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1132/Program.cs)|:white_check_mark:|
+| 1133 | [Resto da Divisão](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1133/Program.cs)|:white_check_mark:|
 | 1134 | [Tipo de Combustível](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1134/Program.cs)|:white_check_mark:|
-| 1142 | [PUM](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1142/Program.cs)   |
+| 1142 | [PUM](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1142/Program.cs)|:white_check_mark:|
 | 1143 | [Quadrado e ao Cubo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1143/Program.cs)|:white_check_mark:|
-| 1144 | [Sequência Lógica](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1144/Program.cs)   |
+| 1144 | [Sequência Lógica](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1144/Program.cs)|:white_check_mark:|
 | 1145 | [Sequência Lógica 2](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1145/Program.cs)|:white_check_mark:|
 | 1146 | [Sequências Crescentes](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1146/Program.cs)|:white_check_mark:|
 | 1149 | [Somando Inteiros Consecutivos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1149/Program.cs)|:white_check_mark:|
@@ -197,7 +197,7 @@
 | 2547 | []()     |
 | 2551 | []()     |
 | 2552 | []()     |
-| 2554 | [Pizza Antes de BH](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_2554/Program.cs)|:white_check_mark:|
+| 2554 | [Pizza Antes de BH](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_2554/Program.cs)|:x:|
 | 2581 | []()     |
 | 2582 | []()     |
 | 2626 | []()     |
@@ -210,4 +210,15 @@
 | 2685 | []()     |
 | 2686 | []()     |
 | 2699 | []()     |
-| 2702 | [Escolha Difícil](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_2702/Program.cs) |
+| 2702 | [Escolha Difícil](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_2702/Program.cs)|:white_check_mark:|
+| 2708 | []() |
+| 2709 | []() |
+| 2712 | []() |
+| 2715 | []() |
+| 2717 | []() |
+| 2718 | []() |
+| 2721 | []() |
+| 2724 | []() |
+| 2727 | []() |
+| 2747 | []() |
+| 2748 | [Saída 2](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_2748/Program.cs)|:white_check_mark:|
