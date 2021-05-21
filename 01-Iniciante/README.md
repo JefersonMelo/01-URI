@@ -2,56 +2,56 @@
 
 | ID   | Problema |
 | ---- | -------- |
-| 1000 | [Hello World!](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1000)    |
-| 1001 | [Extremamente Básico](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1001)    |
+| 1000 | [Hello World!](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1000/Program.cs)    |
+| 1001 | [Extremamente Básico](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1001/Program.cs)    |
 | 1002 | [Área do Círculo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1002)    |
-| 1003 | [Soma Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1003)    |
-| 1004 | [Produto Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1004)     |
-| 1005 | [Média 1](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1005)     |
-| 1006 | [Média 2](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1006)     |
-| 1007 | [Diferença](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1007)     |
-| 1008 | [Salário](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1008)     |
-| 1009 | [Salário com Bônus](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1009)     |
-| 1010 | [Cálculo Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1010)     |
-| 1011 | [Esfera](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1011)     |
-| 1012 | [Área](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1012)     |
-| 1013 | [O Maior](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1013)     |
-| 1014 | [Consumo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1014)     |
-| 1015 | [Distância Entre Dois Pontos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1015)     |
-| 1016 | [Distância](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1016)     |
-| 1017 | [Gasto de Combustível](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1017)     |
-| 1018 | [Cédulas](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1018)     |
-| 1019 | [Conversão de Tempo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1019)     |
-| 1020 | [Idade em Dias](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1020)     |
-| 1021 | [Notas e Moedas](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1021)     |
+| 1003 | [Soma Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1003/Program.cs)    |
+| 1004 | [Produto Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1004/Program.cs)     |
+| 1005 | [Média 1](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1005/Program.cs)     |
+| 1006 | [Média 2](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1006/Program.cs)     |
+| 1007 | [Diferença](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1007/Program.cs)     |
+| 1008 | [Salário](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1008/Program.cs)     |
+| 1009 | [Salário com Bônus](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1009/Program.cs)     |
+| 1010 | [Cálculo Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1010/Program.cs)     |
+| 1011 | [Esfera](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1011/Program.cs)     |
+| 1012 | [Área](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1012/Program.cs)     |
+| 1013 | [O Maior](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1013/Program.cs)     |
+| 1014 | [Consumo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1014/Program.cs)     |
+| 1015 | [Distância Entre Dois Pontos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1015/Program.cs)     |
+| 1016 | [Distância](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1016/Program.cs)     |
+| 1017 | [Gasto de Combustível](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1017/Program.cs)     |
+| 1018 | [Cédulas](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1018/Program.cs)     |
+| 1019 | [Conversão de Tempo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1019/Program.cs)     |
+| 1020 | [Idade em Dias](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1020/Program.cs)     |
+| 1021 | [Notas e Moedas](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1021/Program.cs)     |
 | 1035 | [Teste de Seleção 1](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1035)     |
-| 1036 | [Fórmula de Bhaskara](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1036)     |
-| 1037 | [Intervalo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1037)     |
-| 1038 | [Lanche](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1038)     |
-| 1040 | [Média 3](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1040)     |
+| 1036 | [Fórmula de Bhaskara](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1036/Program.cs)     |
+| 1037 | [Intervalo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1037/Program.cs)     |
+| 1038 | [Lanche](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1038/Program.cs)     |
+| 1040 | [Média 3](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1040/Program.cs)     |
 | 1041 | [Coordenadas de um Ponto](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1041)     |
-| 1042 | [Sort Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1042)     |
-| 1043 | [Triângulo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1043)     |
-| 1044 | [Múltiplos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1044)     |
+| 1042 | [Sort Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1042/Program.cs)     |
+| 1043 | [Triângulo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1043/Program.cs)     |
+| 1044 | [Múltiplos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1044/Program.cs)     |
 | 1045 | [Tipos de Triângulos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1045)     |
 | 1046 | [Tempo de Jogo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1046)     |
-| 1047 | [Tempo de Jogo com Minutos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1047)     |
-| 1048 | [Aumento de Sal�rio](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1048)     |
-| 1049 | [Animal](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1049)     |
-| 1050 | [DDD](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1050)     |
-| 1051 | [Imposto de Renda](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1051)     |
-| 1052 | []()     |
-| 1059 | []()     |
-| 1060 | []()     |
-| 1061 | []()     |
-| 1064 | []()     |
-| 1065 | []()     |
-| 1066 | []()     |
-| 1067 | []()     |
-| 1070 | []()     |
-| 1071 | []()     |
-| 1072 | []()     |
-| 1073 | []()     |
+| 1047 | [Tempo de Jogo com Minutos](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1047/Program.cs)     |
+| 1048 | [Aumento de Sal�rio](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1048/Program.cs)     |
+| 1049 | [Animal](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1049/Program.cs)     |
+| 1050 | [DDD](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1050/Program.cs)     |
+| 1051 | [Imposto de Renda](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1051/Program.cs)     |
+| 1052 | [M�s](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1052/Program.cs)     |
+| 1059 | [N�meros Pares]()     |
+| 1060 | [N�meros Positivos]()     |
+| 1061 | [Tempo de um Evento]()     |
+| 1064 | [Positivos e M�dia]()     |
+| 1065 | [Pares entre Cinco N�meros]()     |
+| 1066 | [Pares, �mpares, Positivos e Negativos]()     |
+| 1067 | [N�meros �mpares]()     |
+| 1070 | [Seis N�meros �mpares]()     |
+| 1071 | [Soma de Impares Consecutivos I]()     |
+| 1072 | [Intervalo 2]()     |
+| 1073 | [Quadrado de Pares]()     |
 | 1074 | []()     |
 | 1075 | []()     |
 | 1078 | []()     |
