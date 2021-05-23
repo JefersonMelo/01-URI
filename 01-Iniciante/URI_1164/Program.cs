@@ -6,23 +6,23 @@ namespace URI_1164
     {
         static void Main(string[] args)
         {
-            int n, x, a, b, c, d;
+            int n, x, a, b;
 
             n = int.Parse(Console.ReadLine());
 
-            for(a = 1; a <= n; a++)
+            for(int i = 1; i <= n; i++)
             {
                 x = int.Parse(Console.ReadLine());
 
-                c = x / 2;
-                d = 0;
+                a = x / 2;
+                b = 0;
 
-                for(b = 1; b <= c; b++)
+                for(int j = 1; j <= a; j++)
                 {
-                    if(x % b == 0)
-                        d += b;
+                    if(x % j == 0)
+                        b += j;
                 }
-                if(d == x)
+                if(b == x)
                 {
                     Console.WriteLine($"{x} eh perfeito");
                 }
