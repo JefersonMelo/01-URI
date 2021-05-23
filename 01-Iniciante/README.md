@@ -92,7 +92,7 @@
 | 1160 | [Crescimento Populacional](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1160/Program.cs)|:white_check_mark:|
 | 1164 | [Número Perfeito](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1164/Program.cs)|:white_check_mark:|
 | 1165 | [Número Primo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1165/Program.cs)|:white_check_mark:|
-| 1172 | []()|
+| 1172 | [Substituição em Vetor I](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1175/Program.cs)|
 | 1173 | []()|
 | 1174 | []()|
 | 1175 | []()|
