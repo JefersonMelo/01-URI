@@ -3,7 +3,7 @@
 >Linguagens de Consulta: Seleção, Inserção, Atualização, Criação
 
 |ID|Problema|Status|
-|-|-|-|:-:|
+|-|-|:-:|
 |2602|[Select Básico](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2602)|:white_check_mark:|
 |2603|[Endereço dos Clientes](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2603)|:white_check_mark:|
 |2604|[Menores que 10 ou Maiores que 100](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2604)|:white_check_mark:|
