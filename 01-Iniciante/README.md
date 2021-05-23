@@ -87,7 +87,7 @@
 | 1155 | [Sequência S](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1155/Program.cs)|:white_check_mark:|
 | 1156 | [Sequência S II](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1155/Program.cs)|:white_check_mark:|
 | 1157 | [Divisores I](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1157/Program.cs)|:white_check_mark:|
-| 1158 | []()|
+| 1158 | [Soma de Ímpares Consecutivos III](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1158/Program.cs)|:white_check_mark:|
 | 1159 | []()|
 | 1160 | [Crescimento Populacional](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1160/Program.cs)|:white_check_mark:|
 | 1164 | []()|
