@@ -52,3 +52,9 @@ VALUES
   
 /*  Execute this query to drop the tables */
 -- DROP TABLE products, categories, providers; --
+
+SELECT products.name, providers.name, categories.name
+FROM providers
+JOIN products ON providers.id = products.id_providers
+JOIN categories ON categories.id = products.id_categories
+where providers.name like 'Sansul SA' and categories.name like 'Imported';

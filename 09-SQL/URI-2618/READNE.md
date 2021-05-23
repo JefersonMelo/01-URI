@@ -85,5 +85,9 @@ Sua tarefa é exibir o nome dos produtos, o nome do fornecedor e o nome da categ
 ### Solução
 
 ```"
-
+SELECT products.name, providers.name, categories.name
+FROM providers
+JOIN products ON providers.id = products.id_providers
+JOIN categories ON categories.id = products.id_categories
+where providers.name like 'Sansul SA' and categories.name like 'Imported';
 ```
