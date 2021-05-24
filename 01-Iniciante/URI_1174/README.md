@@ -15,6 +15,6 @@ A entrada contém 100 valores, podendo ser inteiros, reais, positivos ou negativ
 
 Para cada valor do vetor menor ou igual a 10, escreva "A[i] = x", onde i é a posição do vetor e x é o valor armazenado na posição, com uma casa após o ponto decimal.  
 
-| Exemplo de Entrada                 | Exemplo de Saída                                                   |
-| ---------------------------------- | ------------------------------------------------------------------ |
-|-91<br>-33<br>17<br>60<br>... | A[0] = -91.0<br>A[1] = -33.0<br>A[5] = -24.0<br>A[6] = -73.<br>... |
+| Exemplo de Entrada            | Exemplo de Saída                                                   |
+| ----------------------------- | ------------------------------------------------------------------ |
+| -91<br>-33<br>17<br>60<br>... | A[0] = -91.0<br>A[1] = -33.0<br>A[5] = -24.0<br>A[6] = -73.<br>... |
