@@ -93,7 +93,7 @@
 | 1164 | [Número Perfeito](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1164/Program.cs)|:white_check_mark:|
 | 1165 | [Número Primo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1165/Program.cs)|:white_check_mark:|
 | 1172 | [Substituição em Vetor I](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1172/Program.cs)|:white_check_mark:|
-| 1173 | [Preenchimento de Vetor I](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1173/Program.cs)
+| 1173 | [Preenchimento de Vetor I](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1173/Program.cs)|:white_check_mark:|
 | 1174 | []()|
 | 1175 | []()|
 | 1176 | []()|
