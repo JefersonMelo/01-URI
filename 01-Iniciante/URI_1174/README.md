@@ -17,4 +17,4 @@ Para cada valor do vetor menor ou igual a 10, escreva "A[i] = x", onde i é a po
 
 | Exemplo de Entrada                 | Exemplo de Saída                                                   |
 | ---------------------------------- | ------------------------------------------------------------------ |
-| 0<br>-91<br>-33<br>17<br>60<br>... | A[0] = -91.0<br>A[1] = -33.0<br>A[5] = -24.0<br>A[6] = -73.<br>... |
+|-91<br>-33<br>17<br>60<br>... | A[0] = -91.0<br>A[1] = -33.0<br>A[5] = -24.0<br>A[6] = -73.<br>... |
