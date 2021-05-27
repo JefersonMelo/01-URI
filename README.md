@@ -5,12 +5,12 @@ por gostar muito de codificar em C# e estar um pouco viciado no Uri :sweat_smile
 
 Número   | Categoria
 -------- | ------
-1        | [Iniciante](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante#soluções)
-2        | [Ad-Hoc](https://github.com/JefersonMelo/01-URI/tree/master/02-Ad-Hoc)
-3        | [Strings](https://github.com/JefersonMelo/01-URI/tree/master/03-Strings)
-4        | [Estruturas e Bibliotecas](https://github.com/JefersonMelo/01-URI/tree/master/04-Estruturas_e_Bibliotecas)
-5        | [Matemática](https://github.com/JefersonMelo/01-URI/tree/master/05-Matematica)
-6        | [Paradigmas](https://github.com/JefersonMelo/01-URI/tree/master/06-Paradigmas)
-7        | [Grafos](https://github.com/JefersonMelo/01-URI/tree/master/07-Grafos)
-8        | [Geomertia Computacional](https://github.com/JefersonMelo/01-URI/tree/master/08-Geometria_Computacional)
-9        | [SQL](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL)
+1        | [Iniciante](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante#soluções#readme)
+2        | [Ad-Hoc](https://github.com/JefersonMelo/01-URI/tree/master/02-Ad-Hoc#readme)
+3        | [Strings](https://github.com/JefersonMelo/01-URI/tree/master/03-Strings#readme)
+4        | [Estruturas e Bibliotecas](https://github.com/JefersonMelo/01-URI/tree/master/04-Estruturas_e_Bibliotecas#readme)
+5        | [Matemática](https://github.com/JefersonMelo/01-URI/tree/master/05-Matematica#readme)
+6        | [Paradigmas](https://github.com/JefersonMelo/01-URI/tree/master/06-Paradigmas#readme)
+7        | [Grafos](https://github.com/JefersonMelo/01-URI/tree/master/07-Grafos#readme)
+8        | [Geomertia Computacional](https://github.com/JefersonMelo/01-URI/tree/master/08-Geometria_Computacional#readme)
+9        | [SQL](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL#readme)
