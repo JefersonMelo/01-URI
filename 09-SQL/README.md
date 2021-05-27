@@ -20,3 +20,4 @@
 |2616|[Nenhuma Locação](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2616)|:white_check_mark:|
 |2617|[Fornecedor Ajax SA](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2617)|:white_check_mark:|
 |2618|[Produtos Importados](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2618)|:white_check_mark:|
+|2619|[Super Luxo](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2619)|:white_check_mark:|
