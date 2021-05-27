@@ -5,7 +5,7 @@ por gostar muito de codificar em C# e estar um pouco viciado no Uri :sweat_smile
 
 Número   | Categoria
 -------- | ------
-1        | [Iniciante](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante#soluções#readme)
+1        | [Iniciante](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante#readme)
 2        | [Ad-Hoc](https://github.com/JefersonMelo/01-URI/tree/master/02-Ad-Hoc#readme)
 3        | [Strings](https://github.com/JefersonMelo/01-URI/tree/master/03-Strings#readme)
 4        | [Estruturas e Bibliotecas](https://github.com/JefersonMelo/01-URI/tree/master/04-Estruturas_e_Bibliotecas#readme)
