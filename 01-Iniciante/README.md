@@ -28,7 +28,7 @@
 | 1036 | [Fórmula de Bhaskara](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1036/Program.cs)|:white_check_mark:|
 | 1037 | [Intervalo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1037/Program.cs)|:white_check_mark:|
 | 1038 | [Lanche](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1038/Program.cs)|:white_check_mark:|
-| 1040 | [Média 3](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1040/Program.cs)|:white_check_mark:|
+| 1040 | [Média 3](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1040/Program.cs)|:x:|
 | 1041 | [Coordenadas de um Ponto](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1041/Program.cs)|:white_check_mark:|
 | 1042 | [Sort Simples](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1042/Program.cs)|:white_check_mark:|
 | 1043 | [Triângulo](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_1043/Program.cs)|:white_check_mark:|
