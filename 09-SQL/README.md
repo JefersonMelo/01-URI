@@ -25,3 +25,4 @@
 |2621|[Quantidades Entre 10 e 20](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2621)|:white_check_mark:|
 |2622|[Pessoas Jurídicas](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2622)|:white_check_mark:|
 |2623|[Categorias com Vários Produtos](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2623)|:white_check_mark:|
+|2624|[Quantidades de Cidades por Clientes](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2624)|:white_check_mark:|

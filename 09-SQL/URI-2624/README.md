@@ -45,5 +45,6 @@ Para fazer isso você deve exibir a quantidade de cidades distintas da tabela cl
 ### Solução
 
 ```"
-
+SELECT COUNT (DISTINCT city)
+FROM customers;
 ```
