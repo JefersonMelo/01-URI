@@ -62,5 +62,9 @@ A máscara do CPF é parecida com: '000.000.000-00'.
 ### Solução
 
 ```"
-
+SELECT SUBSTRING(cpf, 1, 3) || '.' ||
+       SUBSTRING(cpf, 4, 3) || '.' || 
+       SUBSTRING(cpf, 7, 3) || '-' ||
+       SUBSTRING(cpf, 10, 2)
+FROM natural_person;
 ```
