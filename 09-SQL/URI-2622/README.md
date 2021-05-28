@@ -58,5 +58,7 @@ O setor de vendas quer fazer uma promoção para todos os clientes que são pess
 ### Solução
 
 ```"
-
+SELECT customers.name
+FROM customers, legal_person
+WHERE customers.id = legal_person.id_customers;
 ```

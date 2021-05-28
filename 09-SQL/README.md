@@ -22,4 +22,5 @@
 |2618|[Produtos Importados](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2618)|:white_check_mark:|
 |2619|[Super Luxo](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2619)|:white_check_mark:|
 |2620|[Pedidos no Primeiro Semestre](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2620)|:white_check_mark:|
-|2620|[Quantidades Entre 10 e 20](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2621)
+|2621|[Quantidades Entre 10 e 20](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2621)|:white_check_mark:|
+|2622|[Pessoas Jurídicas](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2622)|:white_check_mark:|

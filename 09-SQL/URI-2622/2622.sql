@@ -35,3 +35,7 @@ VALUES
 
 /*  Execute this query to drop the tables */
 -- DROP TABLE legal_person, customers; -- 
+
+SELECT customers.name
+FROM customers, legal_person
+WHERE customers.id = legal_person.id_customers;
