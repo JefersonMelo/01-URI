@@ -39,3 +39,9 @@ VALUES
   
 /*  Execute this query to drop the tables */
 -- DROP TABLE products, providers; -- 
+
+SELECT products.name
+FROM products, providers
+WHERE providers.id = products.id_providers 
+AND amount BETWEEN 10 AND 20 
+AND providers.name LIKE 'P%';

@@ -66,5 +66,9 @@ Exiba o nome dos produtos cujas quantidades estejam entre 10 e 20 e cujo nome do
 ### Solução
 
 ```"
-
+SELECT products.name
+FROM products, providers
+WHERE providers.id = products.id_providers 
+AND amount BETWEEN 10 AND 20 
+AND providers.name LIKE 'P%';
 ```
