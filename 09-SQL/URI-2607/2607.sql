@@ -22,4 +22,8 @@ VALUES
   
   /*  Execute this query to drop the tables */
   -- DROP TABLE providers; --
+
+SELECT DISTINCT city
+FROM providers
+ORDER BY city;
     
