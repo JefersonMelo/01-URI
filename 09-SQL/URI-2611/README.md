@@ -56,7 +56,8 @@ Uma Vídeo locadora contratou seus serviços para catalogar os filmes dela. Eles
 ### Solução
 
 ```"
-SELECT filme.id, filme.name
-FROM movies as filme, genres as genero
-WHERE filme.id_genres = genero.id AND genero.description='Action';
+SELECT movies.id, movies.name
+FROM movies, genres
+WHERE movies.id_genres = genres.id 
+AND genres.description = 'Action';
 ```

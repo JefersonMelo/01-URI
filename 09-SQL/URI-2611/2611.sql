@@ -34,6 +34,6 @@ VALUES
 -- DROP TABLE movies, genres; --
 
 SELECT movies.id, movies.name
-FROM movies
-WHERE movies.id_genres = genres.id
-AND genres.description='Action';
+FROM movies, genres
+WHERE movies.id_genres = genres.id 
+AND genres.description = 'Action';
