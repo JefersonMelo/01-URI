@@ -21,3 +21,6 @@ VALUES
   
   /*  Execute this query to drop the tables */
   -- DROP TABLE products; --
+SELECT id, name 
+FROM products
+WHERE price < 10 OR price > 100;
