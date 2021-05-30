@@ -59,3 +59,7 @@ VALUES
   
   /*  Execute this query to drop the tables */
   -- DROP TABLE products, providers, categories; --
+SELECT products.name, providers.name 
+FROM products
+INNER JOIN providers ON products.id_providers = providers.id
+WHERE products.id_categories = 6;
