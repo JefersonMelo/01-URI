@@ -18,4 +18,6 @@ VALUES (1, 'Pedro Augusto da Rocha', 'Rua Pedro Carlos Hoffman', 'Porto Alegre',
 /* Execute this query to DROP the tables 
 -- DROP TABLE customers; -- 
 */
-
+SELECT name, street
+FROM customers 
+WHERE city = 'Porto Alegre';
