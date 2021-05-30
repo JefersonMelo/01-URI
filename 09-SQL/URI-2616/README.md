@@ -64,11 +64,11 @@ Seu trabalho é nos entregar o ID e o nome dos clientes que não realizaram nenh
 ### Solução
 
 ```"
-  SELECT cliente.id, cliente.name
-  FROM customers AS cliente
-  WHERE cliente.id NOT IN(
-    SELECT locacao.id_customers
-    FROM locations AS locacao
-    WHERE locacao.id_customers = cliente.id
-  );
+SELECT customers.id, customers.name
+FROM customers
+WHERE customers.id NOT IN(
+  SELECT locations.id_customers
+  FROM locations
+  WHERE locations.id_customers = customers.id
+);
 ```
