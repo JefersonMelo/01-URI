@@ -16,17 +16,13 @@ namespace URI_1071
                 x = y;
                 y = aux;
             }
-            if (y < 0)
-            {
-                y++;
-            }
+            
+            if (y < 0) { y++; }
 
             while (x > y)
             {
-                if (y % 2 != 0)
-                {
-                    soma += y;
-                }
+                if (y % 2 != 0) { soma += y; }
+
                 y++;
             }
             Console.WriteLine(soma);
