@@ -4,22 +4,7 @@ namespace URI_1049
 {
     class Program
     {
-        /*
-        Neste problema, você deverá ler 3 palavras que definem o tipo de animal possível segundo o esquema abaixo, da esquerda para a direita.  
-        Em seguida conclua qual dos animais seguintes foi escolhido, através das três palavras fornecidas.
-        Entrada: A entrada contém 3 palavras, uma em cada linha, necessárias para identificar o animal segundo a figura acima, com todas as letras minúsculas.
-        Saída: Imprima o nome do animal correspondente à entrada fornecida.
-        Exemplos de Entrada 	Exemplos de Saída
-        vertebrado              homem
-        mamifero
-        onivoro
-	
-        vertebrado              aguia
-        ave
-        carnivoro
-         */
-
-        static void Main( string[] args )
+        static void Main(string[] args)
         {
             string s = Console.ReadLine().ToLower();
             string ss = Console.ReadLine().ToLower();
@@ -33,24 +18,18 @@ namespace URI_1049
                     {
                         s = "aguia";
                     }
-                    else //if (sss == "onivoro")
-                    {
-                        s = "pomba";
-                    }
+                    else { s = "pomba"; }
                 }
-                else //if (ss == "mamifero")
+                else
                 {
                     if (sss == "onivoro")
                     {
                         s = "homem";
                     }
-                    else //if (sss == "herbivoro")
-                    {
-                        s = "vaca";
-                    }
+                    else { s = "vaca"; }
                 }
             }
-            else //if (s == "invertebrado")
+            else
             {
                 if (ss == "inseto")
                 {
@@ -58,21 +37,15 @@ namespace URI_1049
                     {
                         s = "pulga";
                     }
-                    else //if (sss == "herbivoro")
-                    {
-                        s = "lagarta";
-                    }
+                    else { s = "lagarta"; }
                 }
-                else //if (ss == "anelideo")
+                else
                 {
                     if (sss == "onivoro")
                     {
                         s = "minhoca";
                     }
-                    else //if (sss == "hemafogo")
-                    {
-                        s = "sanguessuga";
-                    }
+                    else { s = "sanguessuga"; }
                 }
             }
             Console.WriteLine(s);
