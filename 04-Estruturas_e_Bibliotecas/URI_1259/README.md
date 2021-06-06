@@ -6,7 +6,7 @@
 Por Neilor Tonin, URI Brasil :brazil:  
 
 >Considerando a entrada de valores inteiros não negativos, ordene estes valores segundo o seguinte critério:  
->- Primeiro os Pares  
+>- Primeiro os Pares
 >- Depois os Ímpares  
 
 >Sendo que deverão ser apresentados os pares em ordem crescente e depois os ímpares em ordem decrescente.
