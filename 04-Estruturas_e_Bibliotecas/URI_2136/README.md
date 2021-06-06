@@ -1,0 +1,24 @@
+﻿# URI 2136
+
+## Amigos do Habay
+
+>URI Online Judge | 2136  
+>Por Joao Marcos Salvanini Bellini de Moraes, IFSULDEMINAS BR :brazil:  
+
+Todo final de ano ocorre uma festa na Instituição de Educação Fantástica (IEF). Logo no início de julho, são abertas as inscrições para participar dela. No momento da inscrição, o usuário pode escolher se quer ser "O Amigo do Habay" na festa ou não. O mais lógico seria escolher a opção Sim, afinal, é um privilégio ser O Amigo do Habay, já que ele é a pessoa mais descolada do IEF. Porém, há indivíduos que definitivamente não pretendem ser O Amigo do Habay, e por motivos desconhecidos.  
+
+Somente um será o escolhido. Em vista disso, muitos alunos que escolheram a opção Sim realizaram a inscrição diversas vezes para aumentar a própria probabilidade de ser O Amigo do Habay. O organizador geral da festa contratou você para organizar as inscrições do site, pois está havendo um spam de inscrições. O critério para ser o escolhido é a quantidade de letras do primeiro nome, e em caso de empate, vence aquele que realizou primeiro a inscrição. A organização final dos inscritos deverá seguir a ordem de escolha (Sim ou Não), mas respeitando a ordem alfabética.  
+
+OBS.: Ninguém que escolheu a opção Não realizou a inscrição mais de uma vez.  
+
+### Entrada
+
+A entrada contém somente um caso de teste. Cada linha é composta pelo primeiro nome do participante (sem espaços), seguido da opção YES (caso o usuário queira ser O Amigo do Habay) ou NO (caso não queira). A entrada termina assim que o usuário digita "FIM" (sem as aspas).  
+
+### Saída
+
+Seu programa deverá imprimir os inscritos pela ordem de escolha e por ordem alfabética, seguido do nome do vencedor. Imprima uma linha em branco entre a lista de inscritos e o nome do vencedor.  
+
+|Exemplo de Entrada|Exemplo de Saída|
+|-|-|
+|Joao NO<br>Carlos YES<br>Abner NO<br>Samuel YES<br>Ricardo NO<br>Abhay YES<br>Samuel YES<br>Andres YES<br>Roberto NO<br>Carlos YES<br>Samuel YES<br>Samuel YES<br>Abhay YES<br>Aline YES<br>Andres YES<br>FIM|Abhay<br>Aline<br>Andres<br>Carlos<br>Samuel<br>Abner<br>Joao<br>Ricardo<br>Roberto<br><br>Amigo do Habay:<br>Carlos|
