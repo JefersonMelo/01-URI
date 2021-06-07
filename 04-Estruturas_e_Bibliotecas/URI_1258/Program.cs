@@ -25,7 +25,7 @@ namespace URI_1258
         static void Main(string[] args)
         {
             List<Camiseta> listPedido = new List<Camiseta>();
-            int qtdPedidos = int.Parse(Console.ReadLine());
+            int qtdPedidos = int.Parse(Console.ReadLine());//Convert.ToInt32(qtdPedidos) ou !string.IsNullOrEmpty(line[0])
             string nome;
 
             do
