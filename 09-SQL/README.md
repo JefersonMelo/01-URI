@@ -28,3 +28,4 @@
 |2624|[Quantidades de Cidades por Clientes](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2624)|:white_check_mark:|
 |2625|[Máscara de CPF](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2625)|:white_check_mark:|
 |2737|[Advogados](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2737)|:white_check_mark:|
+|2738|[Concurso](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2738)|:white_check_mark:|

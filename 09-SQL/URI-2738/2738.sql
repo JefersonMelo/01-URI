@@ -45,3 +45,8 @@ VALUES
   
   /*  Execute this query to drop the tables */
   -- DROP TABLE score, candidate; --
+
+SELECT candidate.name, round(((score.math*2)+(score.specific*3)+(score.project_plan*5))/10,2)::TEXT AS avg
+FROM candidate
+INNER JOIN score ON candidate.id = score.candidate_id
+ORDER BY avg DESC;
