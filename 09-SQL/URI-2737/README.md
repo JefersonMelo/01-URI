@@ -46,4 +46,24 @@ OBS: Antes de apresentar a média mostre um campo chamado Average a fim de deixa
 ### Solução
 
 ```"
+SELECT name, customers_number
+FROM lawyers
+WHERE customers_number = (
+  SELECT Max(customers_number) 
+  FROM lawyers
+  )
+
+UNION ALL
+
+SELECT name, customers_number
+FROM lawyers
+WHERE customers_number = (
+  SELECT Min(customers_number)
+  FROM lawyers
+  )
+
+UNION ALL
+
+SELECT 'Average', round(AVG(customers_number), 0)
+FROM lawyers
 ```
