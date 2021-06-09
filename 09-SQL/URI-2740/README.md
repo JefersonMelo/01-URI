@@ -53,4 +53,16 @@ Selecione os três primeiros colocados da lista com a frase inicial Podium: e ta
 ### Solução
 
 ```"
+(SELECT concat('Podium: ', team) AS name
+FROM league
+ORDER BY position ASC LIMIT 3)
+
+UNION ALL
+
+(SELECT concat('Demoted: ', team)
+FROM league
+WHERE position > (
+  SELECT count(position) - 2
+  FROM league)
+);
 ```
