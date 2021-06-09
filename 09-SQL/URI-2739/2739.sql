@@ -21,3 +21,5 @@ VALUES (1, 'Cristian Ghyprievy', 3000.50, '2017-10-19'),
   /*  Execute this query to drop the tables */
   -- DROP TABLE loan; --
 
+SELECT name, TO_NUMBER(TO_CHAR(payday, 'dd'), '99') AS day
+FROM loan;

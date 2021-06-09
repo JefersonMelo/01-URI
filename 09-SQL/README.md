@@ -29,3 +29,4 @@
 |2625|[Máscara de CPF](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2625)|:white_check_mark:|
 |2737|[Advogados](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2737)|:white_check_mark:|
 |2738|[Concurso](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2738)|:white_check_mark:|
+|2739|[Dia de Pagamento](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2739)|:white_check_mark:|

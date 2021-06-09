@@ -49,4 +49,6 @@ OBS: Obrigatoriamente o dia do mês precisa ser um **inteiro**.
 ### Solução
 
 ```"
+SELECT name, TO_NUMBER(TO_CHAR(payday, 'dd'), '99') AS day
+FROM loan;
 ```
