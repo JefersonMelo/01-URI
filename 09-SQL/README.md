@@ -34,3 +34,4 @@
 |2741|[Notas dos Alunos](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2741)|:white_check_mark:
 |2742|[O Multiverso de Richard](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2742)|:white_check_mark:
 |2743|[Quantidade de Caracteres](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2743)|:white_check_mark:
+|2744|[Senhas](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2744)|:white_check_mark:

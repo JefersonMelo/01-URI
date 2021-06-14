@@ -21,3 +21,6 @@ VALUES (1, 'Joyce P. Parry', 'Promeraw', 'noh1Oozei'),
   
   /*  Execute this query to drop the tables */
   -- DROP TABLE account; --
+
+SELECT id, password, MD5(password)
+FROM account;

@@ -47,4 +47,6 @@ Por tanto você deve selecionar o id, a senha atual e a senha transformada em MD
 ### Solução
 
 ```"
+SELECT id, password, MD5(password)
+FROM account;
 ```
