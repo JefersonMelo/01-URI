@@ -32,3 +32,4 @@
 |2739|[Dia de Pagamento](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2739)|:white_check_mark:|
 |2740|[Liga](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2740)|:white_check_mark:|
 |2741|[Notas dos Alunos](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2741)|:white_check_mark:
+|2742|[O Multiverso de Richard](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2742)|:white_check_mark:
