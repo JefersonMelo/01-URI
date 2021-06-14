@@ -45,4 +45,7 @@ Para ajudar a OMCNP, você deve mostrar a quantidade de caracteres de cada nome 
 ### Solução
 
 ```"
+SELECT name, CHAR_LENGTH(name) AS "length"
+FROM people
+ORDER BY "length" DESC;
 ```

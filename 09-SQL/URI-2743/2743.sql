@@ -20,3 +20,7 @@ VALUES
   
   /*  Execute this query to drop the tables */
   -- DROP TABLE people; --
+
+SELECT name, CHAR_LENGTH(name) AS "length"
+FROM people
+ORDER BY "length" DESC;
