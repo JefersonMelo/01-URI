@@ -46,5 +46,8 @@ Lembre-se de ordenar a lista pela maior nota.
 ### Solução
 
 ```"
-
+SELECT concat('Approved: ', students.name) AS name, grade
+FROM students
+WHERE grade >= 7
+ORDER BY grade DESC;
 ```

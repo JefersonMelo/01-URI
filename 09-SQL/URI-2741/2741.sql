@@ -21,3 +21,8 @@ VALUES (1, 'Terry B. Padilla',7.3),
   
   /*  Execute this query to drop the tables */
   -- DROP TABLE students; --
+
+SELECT concat('Approved: ', students.name) AS name, grade
+FROM students
+WHERE grade >= 7
+ORDER BY grade DESC;
