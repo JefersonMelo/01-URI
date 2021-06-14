@@ -46,4 +46,7 @@ Portanto, mostre o nome da pessoa e o valor que ela deve pagar para o governo co
 ### Solução
 
 ```"
+SELECT name, round(salary * 0.10, 2) :: TEXT AS tax
+FROM people
+WHERE salary > 3000;
 ```
