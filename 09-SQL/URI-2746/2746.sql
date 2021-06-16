@@ -21,3 +21,5 @@ VALUES
   /*  Execute this query to drop the tables */
   -- DROP TABLE virus; --
 
+SELECT replace(name,'H1', 'X') AS name
+FROM virus;

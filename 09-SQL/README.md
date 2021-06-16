@@ -36,3 +36,4 @@
 |2743|[Quantidade de Caracteres](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2743)|:white_check_mark:
 |2744|[Senhas](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2744)|:white_check_mark:
 |2745|[Taxas](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2745)|:white_check_mark:
+|2746|[Virus](https://github.com/JefersonMelo/01-URI/tree/master/09-SQL/URI-2746)|:white_check_mark:

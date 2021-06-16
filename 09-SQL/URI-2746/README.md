@@ -45,4 +45,6 @@ Portanto você deve substituir todo caractere 'H1' ( Hemaglutinina ) por 'X' ( X
 ### Solução
 
 ```"
+SELECT replace(name,'H1', 'X') AS name
+FROM virus;
 ```
