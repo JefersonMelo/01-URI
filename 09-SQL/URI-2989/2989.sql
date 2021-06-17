@@ -2,6 +2,7 @@
 --- Copyright URI Online Judge
 --- www.urionlinejudge.com.br
 --- Problem 2989
+--- https://pastebin.com
 
 CREATE TABLE departamento(
     cod_dep INTEGER PRIMARY KEY,

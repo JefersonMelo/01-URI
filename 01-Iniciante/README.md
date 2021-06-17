@@ -151,7 +151,7 @@
 | 2031 | []()|
 | 2057 | []()|
 | 2059 | []()|
-| 2060 | []()|
+| 2060 | [Desafio de Bino](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_2060/Program.cs)|:white_check_mark:|
 | 2061 | []()|
 | 2126 | []()|
 | 2139 | []()|
@@ -161,7 +161,7 @@
 | 2147 | []()|
 | 2152 | []()|
 | 2159 | []()|
-| 2160 | [Desafio de Bino](https://github.com/JefersonMelo/01-URI/tree/master/01-Iniciante/URI_2060/Program.cs)|:white_check_mark:|
+| 2160 | []()|
 | 2161 | []()|
 | 2162 | []()|
 | 2163 | []()|
